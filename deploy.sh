@@ -17,7 +17,7 @@ msg() {
 }
 msg "Pulling down the \`master\` branch into \`public\` to help avoid merge conflicts"
 git subtree pull --prefix=public \
-    git@github.com:$USERNAME/$USERNAME.github.io.git origin master -m "Merge origin master"
+    https://github.com/$USERNAME/$USERNAME.github.io.git origin master -m "Merge origin master"
 msg "Building the website"
 hugo
 msg "Pushing the updated \`public\` folder to the \`$SOURCE\` branch"
@@ -26,4 +26,4 @@ git commit -m "$MESSAGE"
 git push origin "$SOURCE"
 msg "Pushing the updated \`public\` folder to the \`master\` branch"
 git subtree push --prefix=public \
-    git@github.com:$USERNAME/$USERNAME.github.io.git master
+    https://github.com/$USERNAME/$USERNAME.github.io.git master
