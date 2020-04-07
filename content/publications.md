@@ -7,7 +7,7 @@ title: Publications
 
 - **Crowell HL**, Soneson C<sup>&#9734;</sup>, Germain P-L<sup>&#9734;</sup>, Calini D, Collin L Raposo C, Malhotra D & Robinson MD (2019): *On the discovery of population-specific state transitions from multi-sample multi-condition single-cell RNA sequencing data*. bioRxiv 713412.
 [![](/icons16/doi-icon.png)](https://doi.org/10.1101/713412)
-[![](/icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/713412v1.full.pdf)
+[![](/icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/713412v2.full.pdf)
 [![](/icons16/github-icon.png)](https://github.com/HelenaLC/muscat-comparison)
 [![](/icons16/R-icon.png)](https://bioconductor.org/packages/release/bioc/html/muscat.html)
 
