@@ -35,4 +35,4 @@ git subtree add --prefix=public \
     https://github.com/$USERNAME/$USERNAME.github.io.git master --squash
 msg "Pulling down the just committed file to help avoid merge conflicts"
 git subtree pull --prefix=public \
-    https://github.com/$USERNAME/$USERNAME.github.io.git master
+    https://github.com/$USERNAME/$USERNAME.github.io.git master --squash
