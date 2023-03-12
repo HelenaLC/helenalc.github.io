@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "<a href='docs/index.html'>HelLucCro</a>"
+  title: "HelLucCro"
   navbar:
     left:
       - code/publications.qmd
