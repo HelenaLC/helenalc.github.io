@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "HelLucCro"
+  navbar:
+    left:
+      - code/publications.qmd
+      - code/software.qmd
+      - code/conferences.qmd
+    right:
+      - text: "{{< fa brands google >}}"
+        href: https://scholar.google.com/citations?user=HvzwrjEAAAAJ
+      - text: "{{< fa brands github >}}"
+        href: https://github.com/HelenaLC
+      - text: "{{< fa brands twitter >}}"
+        href: https://twitter.com/CrowellHL
+
+format:
+  html:
+    theme: quartz
+    fontsize: 1em

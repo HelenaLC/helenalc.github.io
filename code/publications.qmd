@@ -1,0 +1,75 @@
+# Publications
+
+- D Righelli$^\ast$, <u>HL Crowell</u>$^\ast$, LM Weber$^\ast$, B Pardo, <br>
+L Collado-Torres, S Ghazanfar, ATL Lun, SC Hicks$^\dagger$, D Risso$^\dagger$. <br>
+*SpatialExperiment*: infrastructure for spatially resolved <br>
+transcriptomics data in R using Bioconductor. <br>
+*Bioinformatics* **38**, 3128-3131 (2022).
+
+- <u>HL Crowell</u>$^\ast$, S Chevrier$^\ast$, A Jacobs, S Sivapatham, <br>
+Tumor Profiler Consortium, B Bodenmiller$^\dagger$, MD Robinson$^\dagger$. <br>
+An R-based reproducible and user-friendly preprocessing pipeline for CyTOF data. <br>
+*F1000Research* **9**, 1263 [v2] (2022).
+
+- Chevrier$^\ast$, <u>HL Crowell</u>$^\ast$, VRT Zanotelli$^\ast$, S Engler, MD Robinson, B Bodenmiller. <br>
+Compensation of Signal Spillover in Suspension and Imaging Mass Cytometry. <br>
+*Cell Systems* **6**, 612–620.e5 (2018).
+
+- <u>Crowell HL</u>, MacLean AL, Stumpf MPH. <br>
+Feedback mechanisms control coexistence in <br>
+a stem cell model of acute myeloid leukaemia. <br>
+*Journal of Theoretical Biology* **401**, 43-53 (2016).
+
+## Preprints
+
+- A Garrido-Trigo, AM Corraliza, M Veny, I Dotti, E Melon-Ardanaz, A Rill, <u>HL Crowell</u>, Á Corbí, V Gudiño, <br>
+M Esteller, I Álvarez-Teubel, D Aguilar, MC Masamunt, E Killingbeck, Y Kim, M Leon, S Visvanathan, <br>
+D Marchese, G Caratù, A Martin-Cardona, M Esteve, J Panés, E Ricart, E Mereu$^\ast$, H Heyn$^\ast$, A Salas. <br>
+Macrophage and neutrophil heterogeneity at single-cell spatial resolution in inflammatory bowel disease. <br>
+*bioRxiv*, 2022.11.28.518139 (2022).
+
+- A Sonrel$^\ast$, A Luetge$^\ast$, C Soneson, IM Gonzalez, PL Germain, S Knyazev, J Gilis, <br>
+R Gerber, R Seurinck, D Paul, E Sonder, <u>HL Crowell</u>, I Fanaswala, A Al-Ajami, <br>
+E Heidari, S Schmeing, S Milosavljevic, Y Saeys, S Mangul, MD Robinson. <br>
+Meta-analysis of (single-cell method) benchmarks <br>
+reveals the need for extensibility and interoperability. <br>
+*bioRxiv*, 2022.09.22.508982 (2022).
+
+- <u>HL Crowell</u>, SX Morillo Leonardo, C Soneson, MD Robinson. <br>
+Built on sand: the shaky foundations of simulating single-cell RNA sequencing data. <br>
+*bioRxiv*, 2021.11.15.468676 (2021).
+
+- S Tiberi, <u>HL Crowell</u>, P Samartsidis, LM Weber, MD Robinson. <br>
+*distinct*: a novel approach to differential distribution analyses. <br>
+*bioRxiv*, 2020.11.24.394213 (2020).
+
+## Collaborations
+
+- KD Prummel, <u>HL Crowell</u>, S Nieuwenhuize, EC Brombacher, S Daetwyler, C Soneson, J Kresoja-Rakic, <br>
+A Kocere, M Ronner, A Ernst, Z Labbaf, DE Clouthier, AB Firulli, H Sánchez-Iranzo, SR Naganathan, <br>
+R O'Rourke, E Raz, N Mercader, A Burger, E Felley-Bosco, J Huisken, MD Robinson, C Mosimann. <br>
+Hand2 delineates mesothelium progenitors and is reactivated in mesothelioma. <br>
+*Nature Communications* **13**, 1677 (2022).
+
+- RA Heller, J Seelig, <u>HL Crowell</u>, M Pilz, P Haubruck, <br>
+Q Sun, L Schomburg, V Daniel, A Moghaddam, B Biglari. <br>
+Predicting neurological recovery after traumatic spinal cord injury <br>
+by time-resolved analysis of monocyte subsets. <br>
+*Brain* **144**, 3159 (2021).
+
+- A Lütge, J Zyprych-Walczak, UB Kunzmann, <u>HL Crowell</u>, D Calini, D Malhotra, C Soneson, MD Robinson. <br>
+*CellMixS*: quantifying and visualizing batch effects in single-cell RNA-seq data <br>
+*Life Science Alliance* **6**, e202001004 (2021).
+
+- J Seelig$^\ast$, RA Heller$^\ast$, P Haubruck, Q Sun, GJ Klingenberg, J Hackler, <br>
+<u>HL Crowell</u>, V Daniel, A Moghaddam, L Schomburg, B Biglari. <br>
+Selenium-binding protein 1 (SELENBP1) as biomarker for <br>
+adverse clinical outcome after traumatic spinal cord injury. <br>
+*Frontiers in Neuroscience* **15**, 680240 (2021).
+
+- M Nowicka, C Krieg, \underline{HL Crowell}, LM Weber, FJ Hartmann, S Guglietta, B Becher, MP Levesque, MD Robinson. <br>
+CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets. <br>
+*F1000Research* **6**, 748 [v4] (2019).
+
+
+

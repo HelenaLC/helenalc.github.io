@@ -1,0 +1,19 @@
+# Software
+
+- **CATALYST**
+[{{< fa brands github >}}](https://github.com/HelenaLC/CATALYST)
+[Bioc](http://bioconductor.org/packages/CATALYST)  
+Cytometry dATa anALYSis Tools.  
+<u>Crowell HL</u>, Zanotelli VRT, Chevrier S, Robinson MD (2017).  
+
+- **muscat**
+[{{< fa brands github >}}](https://github.com/HelenaLC/muscat)
+[Bioc](http://bioconductor.org/packages/muscat)  
+Multi-sample multi-group scRNA-seq data analysis tools.  
+<u>Crowell HL</u>, Zanotelli VRT, Chevrier S, Robinson MD (2019).  
+
+- **SpatialExperiment**
+[{{< fa brands github >}}](https://github.com/drighelli/SpatialExperiment)
+[Bioc](http://bioconductor.org/packages/SpatialExperiment)  
+S4 Class for Spatially Resolved Transcriptomics Data.  
+Righelli D, Risso D, <u>Crowell HL</u>, Weber LM (2020).  

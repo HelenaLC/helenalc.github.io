@@ -1,0 +1,33 @@
+# Conferences
+
+- [Statistical Methods for Post Genomic Data](https://smpgd2023.sciencesconf.org/) <br>
+Feb. '23; Ghent, Belgium <br>
+(invited talk)
+
+- [European Conference on Computational Biology](https://eccb2022.org/) <br>
+Sep. '22; Sitges, Spain <br>
+(invited talk)
+
+- [German Mass Cytometry User Forum](German Mass Cytometry User Forum ) <br>
+Jan. '22; virtual <br>
+(invited talk)
+
+- [European Glial Meeting](https://www.glia2021.eu/) <br>
+July '21; virtual <br>
+(invited talk)
+
+- [Swiss Cytometry Meeting](https://swisscytomeeting.epfl.ch) <br>
+Feb. '20; Lausanne, Switzerland <br>
+(invited talk)
+
+- [Bioconductor Asia Conference](https://bioconductor.github.io/BiocAsia) <br>
+Dec. '19; Sydney, Australia <br>
+(keynote talk \& workshop)
+
+- [Bioconductor Main Conference](http://bioc2019.bioconductor.org/) <br>
+June '19; New York, USA <br>
+(contributed talk \& workshop)
+
+- [European Bioconductor Developers’ Meeting](https://bioconductor.github.io/EuroBioc2018) <br>
+Dec. '18; Munich, Germany <br>
+(contributed talk)
