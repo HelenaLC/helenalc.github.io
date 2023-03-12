@@ -10,6 +10,7 @@ project:
 website:
   title: "HelLucCro"
   navbar:
+    search: false
     left:
       - publications.qmd
       - software.qmd
