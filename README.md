@@ -1,0 +1,3 @@
+- update site locally with `quarto_render()`
+- commit, add & push changes to `quarto` branch
+- launch site via `quarto publish gh-pages --no-browser`
