@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "conferences.html",
-    "href": "conferences.html",
-    "title": "HelLucCro",
-    "section": "",
-    "text": "Conferences\n\nStatistical Methods for Post Genomic Data  Feb. ’23; Ghent, Belgium  (invited talk)\nEuropean Conference on Computational Biology  Sep. ’22; Sitges, Spain  (invited talk)\nGerman Mass Cytometry User Forum  Jan. ’22; virtual  (invited talk)\nEuropean Glial Meeting  July ’21; virtual  (invited talk)\nSwiss Cytometry Meeting  Feb. ’20; Lausanne, Switzerland  (invited talk)\nBioconductor Asia Conference  Dec. ’19; Sydney, Australia  (keynote talk & workshop)\nBioconductor Main Conference  June ’19; New York, USA  (contributed talk & workshop)\nEuropean Bioconductor Developers’ Meeting  Dec. ’18; Munich, Germany  (contributed talk)"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "HelLucCro",
@@ -40,5 +33,12 @@
     "title": "HelLucCro",
     "section": "",
     "text": "Software\n\nCATALYST  Bioc\nCytometry dATa anALYSis Tools.\nCrowell HL, Zanotelli VRT, Chevrier S, Robinson MD (2017).\nmuscat  Bioc\nMulti-sample multi-group scRNA-seq data analysis tools.\nCrowell HL, Zanotelli VRT, Chevrier S, Robinson MD (2019).\nSpatialExperiment  Bioc\nS4 Class for Spatially Resolved Transcriptomics Data.\nRighelli D, Risso D, Crowell HL, Weber LM (2020)."
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "HelLucCro",
+    "section": "",
+    "text": "Conferences\n\nStatistical Methods for Post Genomic Data  Feb. ’23; Ghent, Belgium  (invited talk)\nEuropean Conference on Computational Biology  Sep. ’22; Sitges, Spain  (invited talk)\nGerman Mass Cytometry User Forum  Jan. ’22; virtual  (invited talk)\nEuropean Glial Meeting  July ’21; virtual  (invited talk)\nSwiss Cytometry Meeting  Feb. ’20; Lausanne, Switzerland  (invited talk)\nBioconductor Asia Conference  Dec. ’19; Sydney, Australia  (keynote talk & workshop)\nBioconductor Main Conference  June ’19; New York, USA  (contributed talk & workshop)\nEuropean Bioconductor Developers’ Meeting  Dec. ’18; Munich, Germany  (contributed talk)"
   }
 ]
