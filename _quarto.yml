@@ -1,14 +1,19 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - publications.qmd
+    - software.qmd
+    - conferences.qmd
 
 website:
   title: "HelLucCro"
   navbar:
     left:
-      - code/publications.qmd
-      - code/software.qmd
-      - code/conferences.qmd
+      - publications.qmd
+      - software.qmd
+      - conferences.qmd
     right:
       - text: "{{< fa brands google >}}"
         href: https://scholar.google.com/citations?user=HvzwrjEAAAAJ
