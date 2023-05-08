@@ -2,29 +2,29 @@
 
 - <u>HL Crowell</u>, SX Morillo Leonardo, C Soneson, MD Robinson.
 The shaky foundations of simulating single-cell RNA sequencing data.
-*Genome Biology* **24**, 62 (2023).
+[*Genome Biology* **24**, 62 (2023)](http://doi.org/10.1186/s13059-023-02904-1)
 
 - D Righelli$^\ast$, <u>HL Crowell</u>$^\ast$, LM Weber$^\ast$, B Pardo, 
 L Collado-Torres, S Ghazanfar, ATL Lun, SC Hicks$^\dagger$, D Risso$^\dagger$.
 SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor.
-*Bioinformatics* **38**, 3128-3131 (2022).
+[*Bioinformatics* **38**, 3128-3131 (2022)](http://doi.org/10.1093/bioinformatics/btac299)
 
 - <u>HL Crowell</u>$^\ast$, S Chevrier$^\ast$, A Jacobs, S Sivapatham,
 Tumor Profiler Consortium, B Bodenmiller$^\dagger$, MD Robinson$^\dagger$.
 An R-based reproducible and user-friendly preprocessing pipeline for CyTOF data.
-*F1000Research* **9**, 1263 [v2] (2022).
+[*F1000Research* **9**, 1263.v2 (2022)](http://doi.org/10.12688/f1000research.26073.2)
 
 - <u> HL Crowell</u>, C Soneson, P-L Germain, D Calini, L Collin, C Raposo, D Malhotra, MD Robinson.
 muscat detects subpopulation-specific state transitions from multi-sample multi-condition single-cell transcriptomics data.
-*Nature Communications* **11**, 6077 (2020)
+[*Nature Communications* **11**, 6077 (2020)](https://doi.org/10.1038/s41467-020-19894-4)
 
 - S Chevrier$^\ast$, <u>HL Crowell</u>$^\ast$, VRT Zanotelli$^\ast$, S Engler, MD Robinson, B Bodenmiller.
 Compensation of Signal Spillover in Suspension and Imaging Mass Cytometry.
-*Cell Systems* **6**, 612–620.e5 (2018).
+[*Cell Systems* **6**, 612–620.e5 (2018)](https://doi.org/10.1016/j.cels.2018.02.010)
 
 - <u>Crowell HL</u>, MacLean AL, Stumpf MPH.
 Feedback mechanisms control coexistence in a stem cell model of acute myeloid leukaemia.
-*Journal of Theoretical Biology* **401**, 43-53 (2016).
+[*Journal of Theoretical Biology* **401**, 43-53 (2016)](https://doi.org/10.1016/j.jtbi.2016.04.002)
 
 ## Preprints
 
@@ -32,43 +32,43 @@ Feedback mechanisms control coexistence in a stem cell model of acute myeloid le
 M Esteller, I Álvarez-Teubel, D Aguilar, MC Masamunt, E Killingbeck, Y Kim, M Leon, S Visvanathan,
 D Marchese, G Caratù, A Martin-Cardona, M Esteve, J Panés, E Ricart, E Mereu$^\ast$, H Heyn$^\ast$, A Salas.
 Macrophage and neutrophil heterogeneity at single-cell spatial resolution in inflammatory bowel disease.
-*bioRxiv*, 2022.11.28.518139 (2022).
+[*bioRxiv*, 2022.11.28.518139 (2022)](http://doi.org/10.1101/2022.11.28.518139)
 
-- A Sonrel$^\ast$, A Luetge$^\ast$, C Soneson, IM Gonzalez, PL Germain, S Knyazev, J Gilis,
+- A Sonrel$^\ast$, A Luetge$^\ast$, C Soneson$^\ast$, IM Gonzalez$^\ast$, PL Germain, S Knyazev, J Gilis,
 R Gerber, R Seurinck, D Paul, E Sonder, <u>HL Crowell</u>, I Fanaswala, A Al-Ajami,
 E Heidari, S Schmeing, S Milosavljevic, Y Saeys, S Mangul, MD Robinson.
 Meta-analysis of (single-cell method) benchmarks
 reveals the need for extensibility and interoperability.
-*bioRxiv*, 2022.09.22.508982 (2022).
+[*bioRxiv*, 2022.09.22.508982 (2022)](http://doi.org/10.1101/2022.09.22.508982)
 
 ## Collaborations
 
 - S Tiberi, <u>HL Crowell</u>, P Samartsidis, LM Weber, MD Robinson.
 distinct: a novel approach to differential distribution analyses.
-*Annals of Applied Statistics*, **17**(2), 1681-1700 (2023).
+[*Annals of Applied Statistics*, **17**(2), 1681-1700 (2023)](http://doi.org/10.1214/22-AOAS1689)
 
 - KD Prummel, <u>HL Crowell</u>, S Nieuwenhuize, EC Brombacher, S Daetwyler, C Soneson, J Kresoja-Rakic,
 A Kocere, M Ronner, A Ernst, Z Labbaf, DE Clouthier, AB Firulli, H Sánchez-Iranzo, SR Naganathan,
 R O'Rourke, E Raz, N Mercader, A Burger, E Felley-Bosco, J Huisken, MD Robinson, C Mosimann.
 Hand2 delineates mesothelium progenitors and is reactivated in mesothelioma.
-*Nature Communications* **13**, 1677 (2022).
+[*Nature Communications* **13**, 1677 (2022)](https://doi.org/10.1038/s41467-022-29311-7)
 
 - RA Heller, J Seelig, <u>HL Crowell</u>, M Pilz, P Haubruck,
 Q Sun, L Schomburg, V Daniel, A Moghaddam, B Biglari.
 Predicting neurological recovery after traumatic spinal cord injury
 by time-resolved analysis of monocyte subsets.
-*Brain* **144**, 3159 (2021).
+[*Brain* **144**, 3159 (2021)](http://doi.org/10.1093/brain/awab203)
 
 - A Lütge, J Zyprych-Walczak, UB Kunzmann, <u>HL Crowell</u>, D Calini, D Malhotra, C Soneson, MD Robinson.
 CellMixS: quantifying and visualizing batch effects in single-cell RNA-seq data
-*Life Science Alliance* **6**, e202001004 (2021).
+[*Life Science Alliance* **6**, e202001004 (2021)](https://doi.org/10.26508/lsa.202001004)
 
 - J Seelig$^\ast$, RA Heller$^\ast$, P Haubruck, Q Sun, GJ Klingenberg, J Hackler,
 <u>HL Crowell</u>, V Daniel, A Moghaddam, L Schomburg, B Biglari.
 Selenium-binding protein 1 (SELENBP1) as biomarker for
 adverse clinical outcome after traumatic spinal cord injury.
-*Frontiers in Neuroscience* **15**, 680240 (2021).
+[*Frontiers in Neuroscience* **15**, 680240 (2021)](http://doi.org/10.3389/fnins.2021.680240)
 
 - M Nowicka, C Krieg, <u>HL Crowell</u>, LM Weber, FJ Hartmann, S Guglietta, B Becher, MP Levesque, MD Robinson.
 CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets.
-*F1000Research* **6**, 748 [v4] (2019).
+[*F1000Research* **6**, 748.v4 (2019)](https://doi.org/10.12688/f1000research.11622.4)
