@@ -1,7 +1,7 @@
 # Publications
 
 - <u>HL Crowell</u>, SX Morillo Leonardo, C Soneson, MD Robinson.
-Built on sand: the shaky foundations of simulating single-cell RNA sequencing data.
+The shaky foundations of simulating single-cell RNA sequencing data.
 *Genome Biology* **24**, 62 (2023).
 
 - D Righelli$^\ast$, <u>HL Crowell</u>$^\ast$, LM Weber$^\ast$, B Pardo, 

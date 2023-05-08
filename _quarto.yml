@@ -25,5 +25,5 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: quartz
     fontsize: 1em
