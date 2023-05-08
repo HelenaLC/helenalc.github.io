@@ -14,6 +14,10 @@ Tumor Profiler Consortium, B Bodenmiller$^\dagger$, MD Robinson$^\dagger$.
 An R-based reproducible and user-friendly preprocessing pipeline for CyTOF data.
 *F1000Research* **9**, 1263 [v2] (2022).
 
+- <u> HL Crowell</u>, C Soneson, P-L Germain, D Calini, L Collin, C Raposo, D Malhotra, MD Robinson.
+muscat detects subpopulation-specific state transitions from multi-sample multi-condition single-cell transcriptomics data.
+*Nature Communications* **11**, 6077 (2020)
+
 - S Chevrier$^\ast$, <u>HL Crowell</u>$^\ast$, VRT Zanotelli$^\ast$, S Engler, MD Robinson, B Bodenmiller.
 Compensation of Signal Spillover in Suspension and Imaging Mass Cytometry.
 *Cell Systems* **6**, 612–620.e5 (2018).
