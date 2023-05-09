@@ -1,4 +1,4 @@
-# Publications
+## Publications
 
 - <u>HL Crowell</u>, SX Morillo Leonardo, C Soneson, MD Robinson.
 The shaky foundations of simulating single-cell RNA sequencing data.
