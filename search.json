@@ -11,14 +11,21 @@
     "href": "index.html#experience",
     "title": "HelLucCro",
     "section": "Experience",
-    "text": "Experience\n\nSNF Doc.Mobility.\nNational Center for Genomics, Barcelona, Spain (2021-2022)\n\nVisiting student in the group of H. Heyn (Single Cell Genomics)\n\nResearch Assistant\nUniversity of Zurich, Switzerland (2016-2018)\n\nIn the group of M. D. Robinson (Statistical Bioinformatics)\n\nErasmus scholarship\nImperial College London, UK (2014-2015)\n\nResearch internship in the group of M. Stumpf (Theoretical Systems Biology)\n\nRISE grant\nPennsylvania State University, USA (2014)\n\nResearch internship in the group of D. D. Boehr (Department of Chemistry)"
+    "text": "Experience\n\nBioconductor package reviewer\nVolunteer to assist with the review of newly submitted packages (2021+)\nResearch Assistant\nUniversity of Zurich, Switzerland (2016-2018)\n\nIn the group of M. D. Robinson (Statistical Bioinformatics)"
   },
   {
     "objectID": "index.html#awards",
     "href": "index.html#awards",
     "title": "HelLucCro",
     "section": "Awards",
-    "text": "Awards\n\nBioconductor package reviewer\nVolunteer to assist with the review of newly submitted packages (2021+)\nBioconductor community award\n“For outstanding contributions to the Bioconductor project and community” (2020)"
+    "text": "Awards\n\nSNF Doc.Mobility.\nNational Center for Genomics, Barcelona, Spain (2021-2022)\n\nVisiting student in the group of H. Heyn (Single Cell Genomics)\n\nBioconductor community award\n“For outstanding contributions to the Bioconductor project and community” (2020)\nErasmus scholarship\nImperial College London, UK (2014-2015)\n\nResearch internship in the group of M. Stumpf (Theoretical Systems Biology)\n\nRISE grant\nPennsylvania State University, USA (2014)\n\nResearch internship in the group of D. D. Boehr (Department of Chemistry)"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "HelLucCro",
+    "section": "Teaching",
+    "text": "Teaching\n\nBiological Data Science Summar School\nUzhhorod, Ukraine (July 2023)\nJoint SIB / SciLifeLab Autumn School\nLeysin, Switzerland (Oct. 2019)\nSingle Cell Analysis\nSwiss Institute of Bioinformatics\nZurich, Switzerland (May 2019)\nIntroduction to R Shiny\nTeaching assistant\nZurich, Switzerland (2019-2021)\n\nProgramming in Biology (BIO134)\nPractical Bioinformatics (BIO334)\nStatistical Analysis of High‐Throughput\nGenomic & Transcriptomic Data (STA426)"
   },
   {
     "objectID": "publications.html",
