@@ -26,26 +26,28 @@ Compensation of Signal Spillover in Suspension and Imaging Mass Cytometry.
 Feedback mechanisms control coexistence in a stem cell model of acute myeloid leukaemia.
 [*Journal of Theoretical Biology* **401**, 43-53 (2016)](https://doi.org/10.1016/j.jtbi.2016.04.002)
 
-## Preprints
+## Collaborations
+
+- WJ Hutchison, TJ Keyes, The Tidyomics Consortium, <u>HL Crowell</u>, C Soneson, V Yuan, AA Nahid, W Mu, J Park, ES Davis, M Tang, PP Axisa, N Sato, R Gottardo, M Morgan, S Lee, M Lawrence, SC Hicks, GP Nolan, KL Davis, AT Papenfuss, M Love, S Mangiola.
+The tidyomics ecosystem: Enhancing omic data analyses.
+[*bioRxiv*, 2023.09.10.557072](https://doi.org/10.1101/2023.09.10.557072)
 
 - A Garrido-Trigo, AM Corraliza, M Veny, I Dotti, E Melon-Ardanaz, A Rill, <u>HL Crowell</u>, Á Corbí, V Gudiño,
 M Esteller, I Álvarez-Teubel, D Aguilar, MC Masamunt, E Killingbeck, Y Kim, M Leon, S Visvanathan,
 D Marchese, G Caratù, A Martin-Cardona, M Esteve, J Panés, E Ricart, E Mereu$^\ast$, H Heyn$^\ast$, A Salas.
 Macrophage and neutrophil heterogeneity at single-cell spatial resolution in inflammatory bowel disease.
-[*bioRxiv*, 2022.11.28.518139 (2022)](http://doi.org/10.1101/2022.11.28.518139)
+[*Nature Communications* **14**, 4506 (2023)](http://doi.org/10.1038/s41467-023-40156-6)
 
 - A Sonrel$^\ast$, A Luetge$^\ast$, C Soneson$^\ast$, IM Gonzalez$^\ast$, PL Germain, S Knyazev, J Gilis,
 R Gerber, R Seurinck, D Paul, E Sonder, <u>HL Crowell</u>, I Fanaswala, A Al-Ajami,
 E Heidari, S Schmeing, S Milosavljevic, Y Saeys, S Mangul, MD Robinson.
 Meta-analysis of (single-cell method) benchmarks
 reveals the need for extensibility and interoperability.
-[*bioRxiv*, 2022.09.22.508982 (2022)](http://doi.org/10.1101/2022.09.22.508982)
-
-## Collaborations
+[*Genome Biology* **24**, 119 (2023)](http://doi.org/10.1186/s13059-023-02962-5)
 
 - S Tiberi, <u>HL Crowell</u>, P Samartsidis, LM Weber, MD Robinson.
 distinct: a novel approach to differential distribution analyses.
-[*Annals of Applied Statistics*, **17**(2), 1681-1700 (2023)](http://doi.org/10.1214/22-AOAS1689)
+[*Annals of Applied Statistics* **17**(2):1681-1700 (2023)](http://doi.org/10.1214/22-AOAS1689)
 
 - KD Prummel, <u>HL Crowell</u>, S Nieuwenhuize, EC Brombacher, S Daetwyler, C Soneson, J Kresoja-Rakic,
 A Kocere, M Ronner, A Ernst, Z Labbaf, DE Clouthier, AB Firulli, H Sánchez-Iranzo, SR Naganathan,
