@@ -71,7 +71,8 @@ Pennsylvania State University, USA (2014)
 ## Teaching 
 
 - **Biological Data Science Summer School**  
-Uzhhorod, Ukraine (July 2023)
+Uzhhorod, Ukraine (July 2023 & 2024)  
+[BDS^3](https://www.bds3.org)
 
 - **Joint SIB / SciLifeLab Autumn School**  
 Leysin, Switzerland (Oct. 2019)  
