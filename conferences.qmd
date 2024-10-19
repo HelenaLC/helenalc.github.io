@@ -1,5 +1,13 @@
 # Conferences
 
+- [Spatial & temporal statistical modeling in molecular biology](https://www.huber.embl.de/group/events/ascona2024.html) <br>
+Sep. '24; Ascona, Switzerland <br>
+(selected talk)
+
+- [NanoString Europe summit](https://nanostring.com/events/nanostring-summits-april-2024/) <br>
+Apr. '24; Barcelona, Spain <br>
+(invited talk)
+
 - [Statistical Methods for Post Genomic Data](https://smpgd2023.sciencesconf.org/) <br>
 Feb. '23; Ghent, Belgium <br>
 (invited talk)
@@ -8,7 +16,7 @@ Feb. '23; Ghent, Belgium <br>
 Sep. '22; Sitges, Spain <br>
 (invited talk)
 
-- [German Mass Cytometry User Forum](German Mass Cytometry User Forum ) <br>
+- [German Mass Cytometry User Forum](https://masscytometry2022.de/) <br>
 Jan. '22; virtual <br>
 (invited talk)
 

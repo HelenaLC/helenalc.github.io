@@ -28,9 +28,9 @@ Feedback mechanisms control coexistence in a stem cell model of acute myeloid le
 
 ## Collaborations
 
-- WJ Hutchison, TJ Keyes, The Tidyomics Consortium, <u>HL Crowell</u>, C Soneson, V Yuan, AA Nahid, W Mu, J Park, ES Davis, M Tang, PP Axisa, N Sato, R Gottardo, M Morgan, S Lee, M Lawrence, SC Hicks, GP Nolan, KL Davis, AT Papenfuss, M Love, S Mangiola.
-The tidyomics ecosystem: Enhancing omic data analyses.
-[*Nature Methods* (2024)](https://doi.org/10.1038/s41592-024-02299-2)
+- E Pitino$^\ast$, A Pascual-Reguant$^\ast$, F Segato-Dezem$^\ast$, K Wise, I Salvador-Martinez, <u>HL Crowell</u>, E Courtois, WF Flynn, S Sivajothi, E Soja, S Ruiz, G Caratù, AE Sullivan, German Atzin Mora Roldan, BK Dredge, M Marção, Y Liu, H Chasteen, M Mohenska, J Polo, JC Nieto, J Plummer$^\dagger$, H Heyn$^\dagger$, L Martelotto$^\dagger$.
+STAMP: Single-Cell Transcriptomics Analysis and Multimodal Profiling through Imaging.
+[*bioRxiv* (2024)](https://doi.org/10.1101/2024.10.03.616013)
 
 - A Garrido-Trigo, AM Corraliza, M Veny, I Dotti, E Melon-Ardanaz, A Rill, <u>HL Crowell</u>, Á Corbí, V Gudiño,
 M Esteller, I Álvarez-Teubel, D Aguilar, MC Masamunt, E Killingbeck, Y Kim, M Leon, S Visvanathan,
