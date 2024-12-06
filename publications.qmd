@@ -1,5 +1,9 @@
 ## Publications
 
+- J Wang$^\ast$, <u>HL Crowell</u>$^\ast$, MD Robinson.
+Disentangling cell type and state transcriptional programs.
+[*bioRxiv* (2024)](https://doi.org/10.1101/2024.11.29.626057) 
+
 - <u>HL Crowell</u>, SX Morillo Leonardo, C Soneson, MD Robinson.
 The shaky foundations of simulating single-cell RNA sequencing data.
 [*Genome Biology* **24**, 62 (2023)](http://doi.org/10.1186/s13059-023-02904-1)
@@ -27,6 +31,10 @@ Feedback mechanisms control coexistence in a stem cell model of acute myeloid le
 [*Journal of Theoretical Biology* **401**, 43-53 (2016)](https://doi.org/10.1016/j.jtbi.2016.04.002)
 
 ## Collaborations
+
+- M Emons$^\ast$, S Gunz$^\ast$, <u>HL Crowell</u>, I Mallona, R Furrer, MD Robinson.
+pasta: Pattern Analysis for Spatial Omics Data.
+[*arXiv* (2024)](https://doi.org/10.48550/arXiv.2412.01561)
 
 - E Pitino$^\ast$, A Pascual-Reguant$^\ast$, F Segato-Dezem$^\ast$, K Wise, I Salvador-Martinez, <u>HL Crowell</u>, E Courtois, WF Flynn, S Sivajothi, E Soja, S Ruiz, G Caratù, AE Sullivan, German Atzin Mora Roldan, BK Dredge, M Marção, Y Liu, H Chasteen, M Mohenska, J Polo, JC Nieto, J Plummer$^\dagger$, H Heyn$^\dagger$, L Martelotto$^\dagger$.
 STAMP: Single-Cell Transcriptomics Analysis and Multimodal Profiling through Imaging.

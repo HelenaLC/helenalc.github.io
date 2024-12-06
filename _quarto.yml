@@ -4,26 +4,26 @@ project:
   render:
     - index.qmd
     - publications.qmd
-    - software.qmd
     - conferences.qmd
+    - software.qmd
 
 website:
-  title: "HelLucCro"
+  title: "Vitae"
   navbar:
     search: false
     left:
       - publications.qmd
-      - software.qmd
       - conferences.qmd
+      - software.qmd
     right:
       - text: "{{< fa brands google >}}"
         href: https://scholar.google.com/citations?user=HvzwrjEAAAAJ
       - text: "{{< fa brands github >}}"
         href: https://github.com/HelenaLC
       - text: "{{< fa brands twitter >}}"
-        href: https://twitter.com/helucro
+        href: https://bsky.app/profile/helucro.bsky.social
 
 format:
   html:
-    theme: simplex
+    theme: flatly
     fontsize: 1em

@@ -84,17 +84,20 @@ Pennsylvania State University, USA (2014)
 
 ## Teaching 
 
-- **Biological Data Science Summer School**  
-Uzhhorod, Ukraine (July 2023 & 2024)  
-[BDS^3](https://www.bds3.org)
+- **SIB course** on
+[Spatial Omics Data Analysis](https://www.sib.swiss/training/course/20250121_SPODA)  
+Lausanne, Switzerland (Jan. 2025)  
 
-- **Joint SIB / SciLifeLab Autumn School**  
+- [Biological Data Science Summer School](https://www.bds3.org)  
+Uzhhorod, Ukraine (July 2023 & 2024)
+
+- **SIB/SciLifeLab school** on
+[Single Cell Analysis](https://www.sib.swiss/training/course/2019-10_single-cell)  
 Leysin, Switzerland (Oct. 2019)  
-[Single Cell Analysis](https://www.sib.swiss/training/course/2019-10_single-cell)
 
-- **Swiss Institute of Bioinformatics**  
+- **SIB course** on 
+[Introduction to R Shiny](https://www.sib.swiss/training/course/20230427_SHINY)  
 Zurich, Switzerland (May 2019)  
-[Introduction to R Shiny](https://www.sib.swiss/training/course/20230427_SHINY)
 
 - **Teaching assistant**  
 Zurich, Switzerland (2019-2021)

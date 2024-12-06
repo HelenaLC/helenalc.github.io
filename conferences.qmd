@@ -1,5 +1,9 @@
 # Conferences
 
+- [European Bioconductor Conference 2025](https://eurobioc2025.bioconductor.org/) <br>
+Sep. '25; Barcelona, Spain <br>
+(keynote talk)
+
 - [Spatial & temporal statistical modeling in molecular biology](https://www.huber.embl.de/group/events/ascona2024.html) <br>
 Sep. '24; Ascona, Switzerland <br>
 (selected talk)
