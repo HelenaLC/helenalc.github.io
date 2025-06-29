@@ -84,12 +84,19 @@ Pennsylvania State University, USA (2014)
 
 ## Teaching 
 
+- [CSAMA Biological Data Science](https://csama2025.bioconductor.eu)  
+Bressanone-Brixen, Italy (July 2025)
+
 - **SIB course** on
 [Spatial Omics Data Analysis](https://www.sib.swiss/training/course/20250121_SPODA)  
 Lausanne, Switzerland (Jan. 2025)  
 
+- **guest lecturer** on Spatial Transcriptomics  
+at the Universitat Pompeu Fabra (UPF)  
+Barcelona, Spain (June 2024-'25)
+
 - [Biological Data Science Summer School](https://www.bds3.org)  
-Uzhhorod, Ukraine (July 2023 & 2024)
+Uzhhorod, Ukraine (July 2023-'25)
 
 - **SIB/SciLifeLab school** on
 [Single Cell Analysis](https://www.sib.swiss/training/course/2019-10_single-cell)  

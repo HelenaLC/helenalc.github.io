@@ -1,5 +1,11 @@
 ## Publications
 
+- <u>HL Crowell</u>, I Ruano, Z Hu, Y Hong, G Caratù, H Piessevaux, 
+A Heck, R Liu, M Walter, M Vandenberg, K Young, D McGuire, E Metzger, 
+ML Hoang, JM Beechem, S Tejpar, A Pascual-Reguant$^\ast$, H Heyn$^\ast$.
+Tracing colorectal malignancy transformation from cell to tissue scale.
+[*bioRxiv* (2025)](https://doi.org/10.1101/2025.06.23.660674)
+
 - J Wang$^\ast$, <u>HL Crowell</u>$^\ast$, MD Robinson.
 Disentangling cell type and state transcriptional programs.
 [*bioRxiv* (2024)](https://doi.org/10.1101/2024.11.29.626057) 
@@ -32,13 +38,13 @@ Feedback mechanisms control coexistence in a stem cell model of acute myeloid le
 
 ## Collaborations
 
-- M Emons$^\ast$, S Gunz$^\ast$, <u>HL Crowell</u>, I Mallona, R Furrer, MD Robinson.
-pasta: Pattern Analysis for Spatial Omics Data.
-[*arXiv* (2024)](https://doi.org/10.48550/arXiv.2412.01561)
-
 - E Pitino$^\ast$, A Pascual-Reguant$^\ast$, F Segato-Dezem$^\ast$, K Wise, I Salvador-Martinez, <u>HL Crowell</u>, E Courtois, WF Flynn, S Sivajothi, E Soja, S Ruiz, G Caratù, AE Sullivan, German Atzin Mora Roldan, BK Dredge, M Marção, Y Liu, H Chasteen, M Mohenska, J Polo, JC Nieto, J Plummer$^\dagger$, H Heyn$^\dagger$, L Martelotto$^\dagger$.
-STAMP: Single-Cell Transcriptomics Analysis and Multimodal Profiling through Imaging.
-[*bioRxiv* (2024)](https://doi.org/10.1101/2024.10.03.616013)
+STAMP: Single-cell transcriptomics analysis and multimodal profiling through imaging.
+[*Cell* (2025)](https://doi.org/10.1016/j.cell.2025.05.027)
+
+- M Emons$^\ast$, S Gunz$^\ast$, <u>HL Crowell</u>, I Mallona, R Furrer, MD Robinson.
+Harnessing the Potential of Spatial Statistics for Spatial Omics Data with pasta.
+[*arXiv* (2024)](https://doi.org/10.48550/arXiv.2412.01561)
 
 - A Garrido-Trigo, AM Corraliza, M Veny, I Dotti, E Melon-Ardanaz, A Rill, <u>HL Crowell</u>, Á Corbí, V Gudiño,
 M Esteller, I Álvarez-Teubel, D Aguilar, MC Masamunt, E Killingbeck, Y Kim, M Leon, S Visvanathan,
