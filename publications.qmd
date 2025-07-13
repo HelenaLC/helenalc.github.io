@@ -38,6 +38,10 @@ Feedback mechanisms control coexistence in a stem cell model of acute myeloid le
 
 ## Collaborations
 
+- A Jensen, <u>HL Crowell</u>, A Pascual-Reguant, I Ruano, S Tejpar, H Heyn, M Nilsson, S Marco Salas.
+In Situ Inference of Copy Number Variations in Image-Based Spatial Transcriptomics.
+[*bioRxiv* (2025)](https://doi.org/10.1101/2025.07.02.662761)
+
 - E Pitino$^\ast$, A Pascual-Reguant$^\ast$, F Segato-Dezem$^\ast$, K Wise, I Salvador-Martinez, <u>HL Crowell</u>, E Courtois, WF Flynn, S Sivajothi, E Soja, S Ruiz, G Caratù, AE Sullivan, German Atzin Mora Roldan, BK Dredge, M Marção, Y Liu, H Chasteen, M Mohenska, J Polo, JC Nieto, J Plummer$^\dagger$, H Heyn$^\dagger$, L Martelotto$^\dagger$.
 STAMP: Single-cell transcriptomics analysis and multimodal profiling through imaging.
 [*Cell* (2025)](https://doi.org/10.1016/j.cell.2025.05.027)
