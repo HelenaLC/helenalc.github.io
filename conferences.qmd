@@ -1,5 +1,9 @@
 # Conferences
 
+- [CancersScape: Spatial Biology of the Tumor Ecosystem](https://sciforum.net/event/Cancers2025) <br>
+Nov. '25; Barcelona, Spain <br>
+(invited talk)
+
 - [European Bioconductor Conference 2025](https://eurobioc2025.bioconductor.org/) <br>
 Sep. '25; Barcelona, Spain <br>
 (keynote talk)

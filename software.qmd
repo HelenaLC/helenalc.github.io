@@ -1,5 +1,10 @@
 # Software
 
+- **OSTA**
+[{{< fa brands github >}}](https://github.com/lmweber/OSTA)  
+Orchestrating Spatial Transcriptomics Analysis with Bioconductor.  
+<u>Crowell HL</u>, Robinson MD, Hicks SC, Weber LM (2025).  
+
 - **CATALYST**
 [{{< fa brands github >}}](https://github.com/HelenaLC/CATALYST)
 [Bioc](http://bioconductor.org/packages/CATALYST)  

@@ -84,6 +84,9 @@ Pennsylvania State University, USA (2014)
 
 ## Teaching 
 
+- [Autumn School for Single Cell-ers](https://gimm.idloom.events/autumn-school)  
+Oeiras, Portugal (Oct. 2025)
+
 - [CSAMA Biological Data Science](https://csama2025.bioconductor.eu)  
 Bressanone-Brixen, Italy (July 2025)
 

@@ -1,5 +1,9 @@
 ## Publications
 
+- <u>HL Crowell</u>, L Llaó-Cid, G Frigola, S Gunz, P Lorden, M Ruiz, I Ruano, M Kulis, JI Martin-Subero, H Heyn, E Campo, A Pascual-Reguant. 
+A transcriptional map of human tonsil architecture: beyond the sum of (single cell) parts.
+[*bioRxiv* (2025)](https://doi.org/10.1101/2025.09.08.674825)
+
 - <u>HL Crowell</u>, I Ruano, Z Hu, Y Hong, G Caratù, H Piessevaux, 
 A Heck, R Liu, M Walter, M Vandenberg, K Young, D McGuire, E Metzger, 
 ML Hoang, JM Beechem, S Tejpar, A Pascual-Reguant$^\ast$, H Heyn$^\ast$.
@@ -38,6 +42,10 @@ Feedback mechanisms control coexistence in a stem cell model of acute myeloid le
 
 ## Collaborations
 
+- M Emons$^\ast$, S Gunz$^\ast$, <u>HL Crowell</u>, I Mallona, R Furrer, MD Robinson.
+Harnessing the potential of spatial statistics for spatial omics data with pasta.
+[*Nucleic Acids Research* **53**, gkaf870 (2025)](https://doi.org/10.1093/nar/gkaf870)
+
 - A Jensen, <u>HL Crowell</u>, A Pascual-Reguant, I Ruano, S Tejpar, H Heyn, M Nilsson, S Marco Salas.
 In Situ Inference of Copy Number Variations in Image-Based Spatial Transcriptomics.
 [*bioRxiv* (2025)](https://doi.org/10.1101/2025.07.02.662761)
@@ -45,10 +53,6 @@ In Situ Inference of Copy Number Variations in Image-Based Spatial Transcriptomi
 - E Pitino$^\ast$, A Pascual-Reguant$^\ast$, F Segato-Dezem$^\ast$, K Wise, I Salvador-Martinez, <u>HL Crowell</u>, E Courtois, WF Flynn, S Sivajothi, E Soja, S Ruiz, G Caratù, AE Sullivan, German Atzin Mora Roldan, BK Dredge, M Marção, Y Liu, H Chasteen, M Mohenska, J Polo, JC Nieto, J Plummer$^\dagger$, H Heyn$^\dagger$, L Martelotto$^\dagger$.
 STAMP: Single-cell transcriptomics analysis and multimodal profiling through imaging.
 [*Cell* (2025)](https://doi.org/10.1016/j.cell.2025.05.027)
-
-- M Emons$^\ast$, S Gunz$^\ast$, <u>HL Crowell</u>, I Mallona, R Furrer, MD Robinson.
-Harnessing the Potential of Spatial Statistics for Spatial Omics Data with pasta.
-[*arXiv* (2024)](https://doi.org/10.48550/arXiv.2412.01561)
 
 - A Garrido-Trigo, AM Corraliza, M Veny, I Dotti, E Melon-Ardanaz, A Rill, <u>HL Crowell</u>, Á Corbí, V Gudiño,
 M Esteller, I Álvarez-Teubel, D Aguilar, MC Masamunt, E Killingbeck, Y Kim, M Leon, S Visvanathan,
