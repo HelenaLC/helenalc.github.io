@@ -10,7 +10,7 @@ ML Hoang, JM Beechem, S Tejpar, A Pascual-Reguant$^\ast$, H Heyn$^\ast$.
 Tracing colorectal malignancy transformation from cell to tissue scale.
 [*bioRxiv* (2025)](https://doi.org/10.1101/2025.06.23.660674)
 
-- J Wang$^\ast$, <u>HL Crowell</u>$^\ast$, MD Robinson.
+- J Wang$^\ast$, <u>HL Crowell</u>$^{\ast,\dagger}$, MD Robinson$^\dagger$.
 Disentangling cell type and state transcriptional programs.
 [*bioRxiv* (2024)](https://doi.org/10.1101/2024.11.29.626057) 
 
@@ -41,6 +41,14 @@ Feedback mechanisms control coexistence in a stem cell model of acute myeloid le
 [*Journal of Theoretical Biology* **401**, 43-53 (2016)](https://doi.org/10.1016/j.jtbi.2016.04.002)
 
 ## Collaborations
+
+- S Gunz$^\ast$, <u>HL Crowell</u>, MD Robinson.
+Analysis of anatomical multi-cellular structures from spatial omics data using sosta.
+[*bioRxiv* (2025)](https://doi.org/10.1101/2025.10.13.682065)
+
+- J Gilis, L Perin, M Malfait, <u>HL Crowell</u>, K Van den Berge, AT Assefa, B Verbist, D Risso, L Clement.
+Differential detection workflows for multi-sample single-cell RNA-seq data.
+[*BMC Genomics* **26**, 886 (2025)](http://doi.org/10.1186/s12864-025-12102-x)
 
 - M Emons$^\ast$, S Gunz$^\ast$, <u>HL Crowell</u>, I Mallona, R Furrer, MD Robinson.
 Harnessing the potential of spatial statistics for spatial omics data with pasta.
