@@ -27,3 +27,4 @@ format:
   html:
     theme: flatly
     fontsize: 1em
+    keep-tex: true
