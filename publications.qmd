@@ -1,6 +1,6 @@
 ## Publications
 
-- <u>HL Crowell</u>$^\ast$^{{< fa regular envelope >}}^, Y Dong$^\ast$, I Billato, P Cai, M Emons, S Gunz, B Guo, M Li, A Mahmoud, A Manukyan, \\ H Pagès, P Panwar, S Rao, CJ Sargeant, L Shepherd Kern, M Ramos, J Sun, M Totty, VJ Carey, \\ Y Chen, L Collado-Torres, S Ghazanfar, KD Hansen, K Martinowich, KR Maynard, E Patrick, \\ D Righelli, D Risso, S Tiberi, L Waldron, R Gottardo$^\dagger$^{{< fa regular envelope >}}^, MD Robinson$^\dagger$^{{< fa regular envelope >}}^, SC Hicks$^\dagger$^{{< fa regular envelope >}}^, LM Weber$^\dagger$^{{< fa regular envelope >}}^.
+- <u>HL Crowell</u>$^\ast$^{{< fa regular envelope >}}^, Y Dong$^\ast$, I Billato, P Cai, M Emons, S Gunz, B Guo, M Li, A Mahmoud, A Manukyan, H Pagès, P Panwar, S Rao, CJ Sargeant, L Shepherd Kern, M Ramos, J Sun, M Totty, VJ Carey, Y Chen, L Collado-Torres, S Ghazanfar, KD Hansen, K Martinowich, KR Maynard, E Patrick, D Righelli, D Risso, S Tiberi, L Waldron, R Gottardo$^\dagger$^{{< fa regular envelope >}}^, MD Robinson$^\dagger$^{{< fa regular envelope >}}^, SC Hicks$^\dagger$^{{< fa regular envelope >}}^, LM Weber$^\dagger$^{{< fa regular envelope >}}^.
 Orchestrating spatial transcriptomics analysis with Bioconductor.
 [*bioRxiv* (2025)](https://doi.org/10.1101/2025.11.20.688607)
 
