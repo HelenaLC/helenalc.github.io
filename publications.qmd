@@ -15,7 +15,7 @@ Tracing colorectal malignancy transformation from cell to tissue scale.
 [*bioRxiv* (2025)](https://doi.org/10.1101/2025.06.23.660674)
 
 - J Wang$^\ast$, <u>HL Crowell</u>$^\ast$^{{< fa regular envelope >}}^, MD Robinson$^\ast$^{{< fa regular envelope >}}^.
-Disentangling cell type and state transcriptional programs.
+On feature selection to disentangle cell type and state transcriptional programs.
 [*BMC Genomics* **26**, 1006 (2025)](https://doi.org/10.1186/s12864-025-12085-9) 
 
 - <u>HL Crowell</u>, SX Morillo Leonardo, C Soneson, MD Robinson.
