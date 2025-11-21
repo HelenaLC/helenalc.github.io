@@ -16,7 +16,7 @@ Tracing colorectal malignancy transformation from cell to tissue scale.
 
 - J Wang$^\ast$, <u>HL Crowell</u>$^\ast$^{{< fa regular envelope >}}^, MD Robinson$^\ast$^{{< fa regular envelope >}}^.
 Disentangling cell type and state transcriptional programs.
-[*bioRxiv* (2024)](https://doi.org/10.1101/2024.11.29.626057) 
+[*BMC Genomics* **26**, 1006 (2025)](https://doi.org/10.1186/s12864-025-12085-9) 
 
 - <u>HL Crowell</u>, SX Morillo Leonardo, C Soneson, MD Robinson.
 The shaky foundations of simulating single-cell RNA sequencing data.
