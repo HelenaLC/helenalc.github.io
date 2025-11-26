@@ -1,116 +1,206 @@
-## Curriculum
+# Publications
 
-- **Postdoctoral Fellow**  
-National Center for Genomic Analysis  
-(CNAG), Barcelona, Spain (Sept. 2023+)
-  - In the group of H. Heyn (Single Cell Genomics)
+($\ast$ co-first. $\dagger$ co-senior. {{< fa regular envelope >}} correspondence.)
 
-- **Postdoctoral Fellow**  
-University of Zurich, Switzerland (June-Aug. 2023)
-  - In the group of M. D. Robinson (Statistical Bioinformatics)
+- <u>HL Crowell</u>$^\ast$^{{< fa regular envelope >}}^, Y Dong$^\ast$, I Billato, P Cai, M Emons, S Gunz, B Guo, M Li, A Mahmoud, A Manukyan, H Pagès, P Panwar, S Rao, CJ Sargeant, L Shepherd Kern, M Ramos, J Sun, M Totty, VJ Carey, Y Chen, L Collado-Torres, S Ghazanfar, KD Hansen, K Martinowich, KR Maynard, E Patrick, D Righelli, D Risso, S Tiberi, L Waldron, R Gottardo$^\dagger$^{{< fa regular envelope >}}^, MD Robinson$^\dagger$^{{< fa regular envelope >}}^, SC Hicks$^\dagger$^{{< fa regular envelope >}}^, LM Weber$^\dagger$^{{< fa regular envelope >}}^.
+Orchestrating spatial transcriptomics analysis with Bioconductor.
+[*bioRxiv* (2025)](https://doi.org/10.1101/2025.11.20.688607)
 
-- **Bioinformatics consultant**  
-University of Kansas, USA (Apr.-July '23)  
-  - methods and workflow deelopment for bulk RNA-seq data analysis in the context of sex-chromosome dosage compensation
-  
-- **Bioconductor Technical Advisory board**  
-Bioconductor project (2023+)
-  - Concerned with the project's long-term technical and scientific viability and suitability
+- <u>HL Crowell</u>, L Llaó-Cid, G Frigola, S Gunz, P Lorden, M Ruiz, I Ruano, M Kulis, JI Martin-Subero, H Heyn, E Campo, A Pascual-Reguant. 
+A transcriptional map of human tonsil architecture: beyond the sum of (single cell) parts.
+[*bioRxiv* (2025)](https://doi.org/10.1101/2025.09.08.674825)
 
-- **Bioinformatics consultant**  
-EMBL Heidelberg, Germany (Aug.-Nov. '22)  
-  - "Modern Statistics for Modern Biologists" by W. Huber (EMBL Heidelberg, Germany) and S. Holmes (Stanford University, USA) textbook conversion to the Quarto publishing system
-  
-- **Bioconductor package reviewer**  
-Bioconductor project (2021+)  
-  - Voluntary assistance with the review of newly submitted packages
+- <u>HL Crowell</u>, I Ruano, Z Hu, Y Hong, G Caratù, H Piessevaux, 
+A Heck, R Liu, M Walter, M Vandenberg, K Young, D McGuire, E Metzger, 
+ML Hoang, JM Beechem, S Tejpar, A Pascual-Reguant$^\ast$, H Heyn$^\ast$.
+Tracing colorectal malignancy transformation from cell to tissue scale.
+[*bioRxiv* (2025)](https://doi.org/10.1101/2025.06.23.660674)
 
-- **Research Assistant**  
-University of Zurich, Switzerland (2016-2018)
-  - In the group of M. D. Robinson (Statistical Bioinformatics)
+- J Wang$^\ast$, <u>HL Crowell</u>$^\ast$^{{< fa regular envelope >}}^, MD Robinson$^\ast$^{{< fa regular envelope >}}^.
+On feature selection to disentangle cell type and state transcriptional programs.
+[*BMC Genomics* **26**, 1006 (2025)](https://doi.org/10.1186/s12864-025-12085-9) 
+
+- <u>HL Crowell</u>, SX Morillo Leonardo, C Soneson, MD Robinson.
+The shaky foundations of simulating single-cell RNA sequencing data.
+[*Genome Biology* **24**, 62 (2023)](http://doi.org/10.1186/s13059-023-02904-1)
+
+- D Righelli$^\ast$, <u>HL Crowell</u>$^\ast$, LM Weber$^\ast$, B Pardo, 
+L Collado-Torres, S Ghazanfar, ATL Lun, SC Hicks$^\dagger$, D Risso$^\dagger$.
+SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor.
+[*Bioinformatics* **38**, 3128-3131 (2022)](http://doi.org/10.1093/bioinformatics/btac299)
+
+- <u>HL Crowell</u>$^\ast$, S Chevrier$^\ast$, A Jacobs, S Sivapatham,
+Tumor Profiler Consortium, B Bodenmiller$^\dagger$, MD Robinson$^\dagger$.
+An R-based reproducible and user-friendly preprocessing pipeline for CyTOF data.
+[*F1000Research* **9**, 1263.v2 (2022)](http://doi.org/10.12688/f1000research.26073.2)
+
+- <u> HL Crowell</u>, C Soneson, P-L Germain, D Calini, L Collin, C Raposo, D Malhotra, MD Robinson.
+muscat detects subpopulation-specific state transitions from multi-sample multi-condition single-cell transcriptomics data.
+[*Nature Communications* **11**, 6077 (2020)](https://doi.org/10.1038/s41467-020-19894-4)
+
+- S Chevrier$^\ast$, <u>HL Crowell</u>$^\ast$, VRT Zanotelli$^\ast$, S Engler, MD Robinson, B Bodenmiller.
+Compensation of Signal Spillover in Suspension and Imaging Mass Cytometry.
+[*Cell Systems* **6**, 612–620.e5 (2018)](https://doi.org/10.1016/j.cels.2018.02.010)
+
+- <u>Crowell HL</u>, MacLean AL, Stumpf MPH.
+Feedback mechanisms control coexistence in a stem cell model of acute myeloid leukaemia.
+[*Journal of Theoretical Biology* **401**, 43-53 (2016)](https://doi.org/10.1016/j.jtbi.2016.04.002)
+
+# Collaborations
+
+- S Gunz$^\ast$, <u>HL Crowell</u>, MD Robinson.
+Analysis of anatomical multi-cellular structures from spatial omics data using sosta.
+[*bioRxiv* (2025)](https://doi.org/10.1101/2025.10.13.682065)
+
+- J Gilis, L Perin, M Malfait, <u>HL Crowell</u>, K Van den Berge, AT Assefa, B Verbist, D Risso, L Clement.
+Differential detection workflows for multi-sample single-cell RNA-seq data.
+[*BMC Genomics* **26**, 886 (2025)](http://doi.org/10.1186/s12864-025-12102-x)
+
+- M Emons$^\ast$, S Gunz$^\ast$, <u>HL Crowell</u>, I Mallona, R Furrer, MD Robinson.
+Harnessing the potential of spatial statistics for spatial omics data with pasta.
+[*Nucleic Acids Research* **53**, gkaf870 (2025)](https://doi.org/10.1093/nar/gkaf870)
+
+- A Jensen, <u>HL Crowell</u>, A Pascual-Reguant, I Ruano, S Tejpar, H Heyn, M Nilsson, S Marco Salas.
+In Situ Inference of Copy Number Variations in Image-Based Spatial Transcriptomics.
+[*bioRxiv* (2025)](https://doi.org/10.1101/2025.07.02.662761)
+
+- E Pitino$^\ast$, A Pascual-Reguant$^\ast$, F Segato-Dezem$^\ast$, K Wise, I Salvador-Martinez, <u>HL Crowell</u>, E Courtois, WF Flynn, S Sivajothi, E Soja, S Ruiz, G Caratù, AE Sullivan, German Atzin Mora Roldan, BK Dredge, M Marção, Y Liu, H Chasteen, M Mohenska, J Polo, JC Nieto, J Plummer$^\dagger$, H Heyn$^\dagger$, L Martelotto$^\dagger$.
+STAMP: Single-cell transcriptomics analysis and multimodal profiling through imaging.
+[*Cell* (2025)](https://doi.org/10.1016/j.cell.2025.05.027)
+
+- A Garrido-Trigo, AM Corraliza, M Veny, I Dotti, E Melon-Ardanaz, A Rill, <u>HL Crowell</u>, Á Corbí, V Gudiño,
+M Esteller, I Álvarez-Teubel, D Aguilar, MC Masamunt, E Killingbeck, Y Kim, M Leon, S Visvanathan,
+D Marchese, G Caratù, A Martin-Cardona, M Esteve, J Panés, E Ricart, E Mereu$^\ast$, H Heyn$^\ast$, A Salas.
+Macrophage and neutrophil heterogeneity at single-cell spatial resolution in inflammatory bowel disease.
+[*Nature Communications* **14**, 4506 (2023)](http://doi.org/10.1038/s41467-023-40156-6)
+
+- A Sonrel$^\ast$, A Luetge$^\ast$, C Soneson$^\ast$, IM Gonzalez$^\ast$, PL Germain, S Knyazev, J Gilis,
+R Gerber, R Seurinck, D Paul, E Sonder, <u>HL Crowell</u>, I Fanaswala, A Al-Ajami,
+E Heidari, S Schmeing, S Milosavljevic, Y Saeys, S Mangul, MD Robinson.
+Meta-analysis of (single-cell method) benchmarks
+reveals the need for extensibility and interoperability.
+[*Genome Biology* **24**, 119 (2023)](http://doi.org/10.1186/s13059-023-02962-5)
+
+- S Tiberi, <u>HL Crowell</u>, P Samartsidis, LM Weber, MD Robinson.
+distinct: a novel approach to differential distribution analyses.
+[*Annals of Applied Statistics* **17**(2):1681-1700 (2023)](http://doi.org/10.1214/22-AOAS1689)
+
+- KD Prummel, <u>HL Crowell</u>, S Nieuwenhuize, EC Brombacher, S Daetwyler, C Soneson, J Kresoja-Rakic,
+A Kocere, M Ronner, A Ernst, Z Labbaf, DE Clouthier, AB Firulli, H Sánchez-Iranzo, SR Naganathan,
+R O'Rourke, E Raz, N Mercader, A Burger, E Felley-Bosco, J Huisken, MD Robinson, C Mosimann.
+Hand2 delineates mesothelium progenitors and is reactivated in mesothelioma.
+[*Nature Communications* **13**, 1677 (2022)](https://doi.org/10.1038/s41467-022-29311-7)
+
+- RA Heller, J Seelig, <u>HL Crowell</u>, M Pilz, P Haubruck,
+Q Sun, L Schomburg, V Daniel, A Moghaddam, B Biglari.
+Predicting neurological recovery after traumatic spinal cord injury
+by time-resolved analysis of monocyte subsets.
+[*Brain* **144**, 3159 (2021)](http://doi.org/10.1093/brain/awab203)
+
+- A Lütge, J Zyprych-Walczak, UB Kunzmann, <u>HL Crowell</u>, D Calini, D Malhotra, C Soneson, MD Robinson.
+CellMixS: quantifying and visualizing batch effects in single-cell RNA-seq data
+[*Life Science Alliance* **6**, e202001004 (2021)](https://doi.org/10.26508/lsa.202001004)
+
+- J Seelig$^\ast$, RA Heller$^\ast$, P Haubruck, Q Sun, GJ Klingenberg, J Hackler,
+<u>HL Crowell</u>, V Daniel, A Moghaddam, L Schomburg, B Biglari.
+Selenium-binding protein 1 (SELENBP1) as biomarker for
+adverse clinical outcome after traumatic spinal cord injury.
+[*Frontiers in Neuroscience* **15**, 680240 (2021)](http://doi.org/10.3389/fnins.2021.680240)
+
+- M Nowicka, C Krieg, <u>HL Crowell</u>, LM Weber, FJ Hartmann, S Guglietta, B Becher, MP Levesque, MD Robinson.
+CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets.
+[*F1000Research* **6**, 748.v4 (2019)](https://doi.org/10.12688/f1000research.11622.4)
+
+# Conferences
+
+- [Spatial Biology of the Tumor Ecosystem](https://sciforum.net/event/Cancers2025) Nov. '25; Barcelona, Spain (invited talk)
+- [European Bioconductor Conference 2025](https://eurobioc2025.bioconductor.org/) Sep. '25; Barcelona, Spain (keynote talk)
+- [Spatial & temporal statistical modeling in molecular biology](https://www.huber.embl.de/group/events/ascona2024.html) Sep. '24; Ascona, Switzerland (talk)
+- [NanoString Europe summit](https://nanostring.com/events/nanostring-summits-april-2024/) Apr. '24; Barcelona, Spain (invited talk)
+- [Statistical Methods for Post Genomic Data](https://smpgd2023.sciencesconf.org/) Feb. '23; Ghent, Belgium (invited talk)
+- [European Conference on Computational Biology](https://eccb2022.org/) Sep. '22; Sitges, Spain (invited talk)
+- [German Mass Cytometry User Forum](https://masscytometry2022.de/) Jan. '22; virtual (invited talk)
+- [European Glial Meeting](https://www.glia2021.eu/) July '21; virtual (invited talk)
+- [Swiss Cytometry Meeting](https://swisscytomeeting.epfl.ch) Feb. '20; Lausanne, Switzerland (invited talk)
+- [Bioconductor Asia Conference](https://bioconductor.github.io/BiocAsia) Dec. '19; Sydney, Australia (keynote talk \& workshop)
+- [Bioconductor Main Conference](http://bioc2019.bioconductor.org/) June '19; New York, USA (talk \& workshop)
+- [European Bioconductor Developers’ Meeting](https://bioconductor.github.io/EuroBioc2018) Dec. '18; Munich, Germany (talk)
+
+# Software
+
+- **OSTA**
+[{{< fa brands github >}}](https://github.com/lmweber/OSTA)
+[Bioc](http://bioconductor.org/books/OSTA)  
+Orchestrating Spatial Transcriptomics Analysis with Bioconductor.  
+<u>Crowell HL</u>, Y Dong, R Gottardo, Robinson MD, Hicks SC, Weber LM (2025).  
+
+- **CATALYST**
+[{{< fa brands github >}}](https://github.com/HelenaLC/CATALYST)
+[Bioc](http://bioconductor.org/packages/CATALYST)  
+Preprocessing of and differential discovery in cytometry data.  
+<u>Crowell HL</u>, Zanotelli VRT, Chevrier S, Robinson MD (2017).  
+
+- **muscat**
+[{{< fa brands github >}}](https://github.com/HelenaLC/muscat)
+[Bioc](http://bioconductor.org/packages/muscat)  
+Multi-sample multi-group scRNA-seq data analysis tools.  
+<u>Crowell HL</u>, Germain P-L, Soneson C, Sonrel A,  
+Gilis J, Risso D, Clemend L, Robinson MD (2019). 
+
+- **SpatialExperiment**
+[{{< fa brands github >}}](https://github.com/drighelli/SpatialExperiment)
+[Bioc](http://bioconductor.org/packages/SpatialExperiment)  
+S4 Class for Spatially Resolved Transcriptomics Data.  
+Righelli D, Risso D, <u>Crowell HL</u>, Weber LM (2020).  
+
+- **SPOTlight**
+[{{< fa brands github >}}](https://github.com/MarcElosua/SPOTlight)
+[Bioc](http://bioconductor.org/packages/SPOTlight)  
+Spatial transcriptomics deconvolution using a seeded NMF approach.  
+Elosua-Bayes M, <u>Crowell HL</u>
+
+# Vitae
+
+## Experience
+
+- **Postdoctoral Fellow**, CNAG Barcelona, Spain (Sept. 2023+)
+- **Bioconductor Technical Advisory board** (2023+)
+- **Postdoctoral Fellow**, University of Zurich, Switzerland (June-Aug. 2023)
+- **Consultancy**, BioMed X Heidelberg, Germany (Nov.-Dec. '24)  
+- **Consultancy**, University of Kansas, USA (Apr.-July '23)  
+- **Consultancy**, EMBL Heidelberg, Germany (Aug.-Nov. '22)
+- **Bioconductor package reviewer** (2021+)
+- **Research Assistant**, University of Zurich, Switzerland (2016-2018)
 
 ## Education
 
-- **PhD** in Epidemiology \& Biostatistics  
-University of Zurich, Switzerland (2018-2023)
-  - In the group of M. D. Robinson (Statistical Bioinformatics)
-  - Thesis on 'Computational methods development and benchmarking
-  for single-cell and spatially resolved omics data'
-  - Awarded with distinction by the Faculty of Science
-
-- **MSc** in Computation Biology \& Bioinformatics  
-ETH Zurich, Switzerland (2015-2018)
-  - In the group of M. D. Robinson (Statistical Bioinformatics)
-  - Thesis on 'Differential analysis for scRNA‑seq data with complex experimental designs'
-    
-- **BSc** in Biochemistry  
-University of Heidelberg, Germany (2012-2015)
-  - In the group of T. Höfer (Modeling of Biological Systems)
-  - Thesis 'On the determinism behind neuroblastoma cell cycle dynamics'
-    
-- **Abitur** at Heisenberg-Gymnasium, Germany (2005-2012)
-  - GPA of 1.1 (scale from 1 = best to 6 = worst, 1 – 4 are a pass)
-  - Graduated with distinction in Chemistry, Mathematics, and overall grade
-
-## Honors
-
-- **PhD distinction**  
-Awarded by The Faculty of Science (MNF)  
-for "exceptional doctoral theses" (2020)
-
-- **Bioconductor community award**  
-"For outstanding contributions to the
-Bioconductor project and community" (2020)
+- **PhD** Epidemiology \& Biostatistics, University of Zurich, Switzerland (2018-2023)
+- **MSc** Computation Biology \& Bioinformatics, ETH Zurich, Switzerland (2015-2018)
+- **BSc** Biochemistry, University of Heidelberg, Germany (2012-2015)
 
 ## Funding 
 
-- **SNSF Postdoc.Mobility**  
-National Center for Genomic Analysis  
-(CNAG), Barcelona, Spain (Sept. 2023+)
-  - Postdoc in the group of H. Heyn (Single Cell Genomics)
+- **SNSF Postdoc.Mobility**, CNAG Barcelona, Spain (Sept. 2023+)
+- **SNSF Doc.Mobility** CNAG Barcelona, Spain (2021-2022)
+- **Erasmus scholarship** Imperial College London, UK (2014-2015)
+- **RISE grant** Pennsylvania State University, USA (2014)
 
-- **SNSF Doc.Mobility**  
-National Center for Genomic Analysis  
-(CNAG), Barcelona, Spain (2021-2022)
-  - Visiting student in the group of H. Heyn (Single Cell Genomics)
+## Honors
 
-- **Erasmus scholarship**  
-Imperial College London, UK (2014-2015)
-  - Research internship in the group of M. Stumpf (Theoretical Systems Biology)
-  
-- **RISE grant**  
-Pennsylvania State University, USA (2014)
-  - Research internship in the group of D. D. Boehr (Department of Chemistry)
+- **PhD distinction** Faculty of Science, University of Zurich, Switzerland (2020)
+- **Bioconductor community award** Bioconductor Conference, virtual (2020)
 
 ## Teaching 
 
-- [Autumn School for Single Cell-ers](https://gimm.idloom.events/autumn-school)  
-Oeiras, Portugal (Oct. 2025)
-
-- [CSAMA Biological Data Science](https://csama2025.bioconductor.eu)  
-Bressanone-Brixen, Italy (July 2025)
-
+- [Autumn School for Single Cell-ers](https://gimm.idloom.events/autumn-school) Oeiras, Portugal (Oct. 2025)
+- [CSAMA Biological Data Science](https://csama2025.bioconductor.eu) Bressanone-Brixen, Italy (July 2025)
 - **SIB course** on
-[Spatial Omics Data Analysis](https://www.sib.swiss/training/course/20250121_SPODA)  
-Lausanne, Switzerland (Jan. 2025)  
-
-- **guest lecturer** on Spatial Transcriptomics  
-at the Universitat Pompeu Fabra (UPF)  
-Barcelona, Spain (June 2024-'25)
-
-- [Biological Data Science Summer School](https://www.bds3.org)  
-Uzhhorod, Ukraine (July 2023-'25)
-
-- **SIB/SciLifeLab school** on
-[Single Cell Analysis](https://www.sib.swiss/training/course/2019-10_single-cell)  
-Leysin, Switzerland (Oct. 2019)  
-
-- **SIB course** on 
-[Introduction to R Shiny](https://www.sib.swiss/training/course/20230427_SHINY)  
-Zurich, Switzerland (May 2019)  
-
-- **Teaching assistant**  
-Zurich, Switzerland (2019-2021)
+[Spatial Omics Data Analysis](https://www.sib.swiss/training/course/20250121_SPODA) Lausanne, Switzerland (Jan. 2025)  
+- **guest lecturer** on Spatial Transcriptomics at the UPF Barcelona, Spain (June 2024-'25)
+- [Biological Data Science Summer School](https://www.bds3.org) Uzhhorod, Ukraine (July 2023-'25)
+- **SIB/SciLifeLab school** on [Single Cell Analysis](https://www.sib.swiss/training/course/2019-10_single-cell) Leysin, Switzerland (Oct. 2019)  
+- **SIB course** on [Introduction to R Shiny](https://www.sib.swiss/training/course/20230427_SHINY) Zurich, Switzerland (May 2019)  
+- **Teaching assistant** University of Zurich, Switzerland (2019-2021)
   - Programming in Biology (BIO134)
   - Practical Bioinformatics (BIO334)
   - Statistical Analysis of High‐Throughput  

@@ -3,18 +3,11 @@ project:
   output-dir: docs
   render:
     - index.qmd
-    - publications.qmd
-    - conferences.qmd
-    - software.qmd
 
 website:
-  title: "Vitae"
+  title: "HLC"
   navbar:
     search: false
-    left:
-      - publications.qmd
-      - conferences.qmd
-      - software.qmd
     right:
       - text: "{{< fa brands google >}}"
         href: https://scholar.google.com/citations?user=HvzwrjEAAAAJ
@@ -28,3 +21,5 @@ format:
     theme: flatly
     fontsize: 1em
     keep-tex: true
+    toc: true
+    toc-float: true
