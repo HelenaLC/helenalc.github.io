@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Vitae</title>
+<title>HLC</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,10 +69,39 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -80,27 +109,13 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Vitae</span>
+    <span class="navbar-title">HLC</span>
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./conferences.html"> 
-<span class="menu-text">Conferences</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./software.html"> 
-<span class="menu-text">Software</span></a>
-  </li>  
-</ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="https://scholar.google.com/citations?user=HvzwrjEAAAAJ"> 
@@ -125,140 +140,159 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">Publications</a></li>
+  <li><a href="#collaborations" id="toc-collaborations" class="nav-link" data-scroll-target="#collaborations">Collaborations</a></li>
+  <li><a href="#conferences" id="toc-conferences" class="nav-link" data-scroll-target="#conferences">Conferences</a></li>
+  <li><a href="#software" id="toc-software" class="nav-link" data-scroll-target="#software">Software</a></li>
+  <li><a href="#vitae" id="toc-vitae" class="nav-link" data-scroll-target="#vitae">Vitae</a>
+  <ul class="collapse">
+  <li><a href="#experience" id="toc-experience" class="nav-link" data-scroll-target="#experience">Experience</a></li>
+  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
+  <li><a href="#funding" id="toc-funding" class="nav-link" data-scroll-target="#funding">Funding</a></li>
+  <li><a href="#honors" id="toc-honors" class="nav-link" data-scroll-target="#honors">Honors</a></li>
+  <li><a href="#teaching" id="toc-teaching" class="nav-link" data-scroll-target="#teaching">Teaching</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
-<section id="curriculum" class="level2">
-<h2 class="anchored" data-anchor-id="curriculum">Curriculum</h2>
+<section id="publications" class="level1">
+<h1>Publications</h1>
+<p>(<span class="math inline">\(\ast\)</span> co-first. <span class="math inline">\(\dagger\)</span> co-senior. <i class="fa-regular fa-envelope" aria-label="envelope"></i> correspondence.)</p>
 <ul>
-<li><strong>Postdoctoral Fellow</strong><br>
-National Center for Genomic Analysis<br>
-(CNAG), Barcelona, Spain (Sept.&nbsp;2023+)
+<li><p><u>HL Crowell</u><span class="math inline">\(^\ast\)</span><sup><i class="fa-regular fa-envelope" aria-label="envelope"></i></sup>, Y Dong<span class="math inline">\(^\ast\)</span>, I Billato, P Cai, M Emons, S Gunz, B Guo, M Li, A Mahmoud, A Manukyan, H Pagès, P Panwar, S Rao, CJ Sargeant, L Shepherd Kern, M Ramos, J Sun, M Totty, VJ Carey, Y Chen, L Collado-Torres, S Ghazanfar, KD Hansen, K Martinowich, KR Maynard, E Patrick, D Righelli, D Risso, S Tiberi, L Waldron, R Gottardo<span class="math inline">\(^\dagger\)</span><sup><i class="fa-regular fa-envelope" aria-label="envelope"></i></sup>, MD Robinson<span class="math inline">\(^\dagger\)</span><sup><i class="fa-regular fa-envelope" aria-label="envelope"></i></sup>, SC Hicks<span class="math inline">\(^\dagger\)</span><sup><i class="fa-regular fa-envelope" aria-label="envelope"></i></sup>, LM Weber<span class="math inline">\(^\dagger\)</span><sup><i class="fa-regular fa-envelope" aria-label="envelope"></i></sup>. Orchestrating spatial transcriptomics analysis with Bioconductor. <a href="https://doi.org/10.1101/2025.11.20.688607"><em>bioRxiv</em> (2025)</a></p></li>
+<li><p><u>HL Crowell</u>, L Llaó-Cid, G Frigola, S Gunz, P Lorden, M Ruiz, I Ruano, M Kulis, JI Martin-Subero, H Heyn, E Campo, A Pascual-Reguant. A transcriptional map of human tonsil architecture: beyond the sum of (single cell) parts. <a href="https://doi.org/10.1101/2025.09.08.674825"><em>bioRxiv</em> (2025)</a></p></li>
+<li><p><u>HL Crowell</u>, I Ruano, Z Hu, Y Hong, G Caratù, H Piessevaux, A Heck, R Liu, M Walter, M Vandenberg, K Young, D McGuire, E Metzger, ML Hoang, JM Beechem, S Tejpar, A Pascual-Reguant<span class="math inline">\(^\ast\)</span>, H Heyn<span class="math inline">\(^\ast\)</span>. Tracing colorectal malignancy transformation from cell to tissue scale. <a href="https://doi.org/10.1101/2025.06.23.660674"><em>bioRxiv</em> (2025)</a></p></li>
+<li><p>J Wang<span class="math inline">\(^\ast\)</span>, <u>HL Crowell</u><span class="math inline">\(^\ast\)</span><sup><i class="fa-regular fa-envelope" aria-label="envelope"></i></sup>, MD Robinson<span class="math inline">\(^\ast\)</span><sup><i class="fa-regular fa-envelope" aria-label="envelope"></i></sup>. On feature selection to disentangle cell type and state transcriptional programs. <a href="https://doi.org/10.1186/s12864-025-12085-9"><em>BMC Genomics</em> <strong>26</strong>, 1006 (2025)</a></p></li>
+<li><p><u>HL Crowell</u>, SX Morillo Leonardo, C Soneson, MD Robinson. The shaky foundations of simulating single-cell RNA sequencing data. <a href="http://doi.org/10.1186/s13059-023-02904-1"><em>Genome Biology</em> <strong>24</strong>, 62 (2023)</a></p></li>
+<li><p>D Righelli<span class="math inline">\(^\ast\)</span>, <u>HL Crowell</u><span class="math inline">\(^\ast\)</span>, LM Weber<span class="math inline">\(^\ast\)</span>, B Pardo, L Collado-Torres, S Ghazanfar, ATL Lun, SC Hicks<span class="math inline">\(^\dagger\)</span>, D Risso<span class="math inline">\(^\dagger\)</span>. SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor. <a href="http://doi.org/10.1093/bioinformatics/btac299"><em>Bioinformatics</em> <strong>38</strong>, 3128-3131 (2022)</a></p></li>
+<li><p><u>HL Crowell</u><span class="math inline">\(^\ast\)</span>, S Chevrier<span class="math inline">\(^\ast\)</span>, A Jacobs, S Sivapatham, Tumor Profiler Consortium, B Bodenmiller<span class="math inline">\(^\dagger\)</span>, MD Robinson<span class="math inline">\(^\dagger\)</span>. An R-based reproducible and user-friendly preprocessing pipeline for CyTOF data. <a href="http://doi.org/10.12688/f1000research.26073.2"><em>F1000Research</em> <strong>9</strong>, 1263.v2 (2022)</a></p></li>
+<li><p><u> HL Crowell</u>, C Soneson, P-L Germain, D Calini, L Collin, C Raposo, D Malhotra, MD Robinson. muscat detects subpopulation-specific state transitions from multi-sample multi-condition single-cell transcriptomics data. <a href="https://doi.org/10.1038/s41467-020-19894-4"><em>Nature Communications</em> <strong>11</strong>, 6077 (2020)</a></p></li>
+<li><p>S Chevrier<span class="math inline">\(^\ast\)</span>, <u>HL Crowell</u><span class="math inline">\(^\ast\)</span>, VRT Zanotelli<span class="math inline">\(^\ast\)</span>, S Engler, MD Robinson, B Bodenmiller. Compensation of Signal Spillover in Suspension and Imaging Mass Cytometry. <a href="https://doi.org/10.1016/j.cels.2018.02.010"><em>Cell Systems</em> <strong>6</strong>, 612–620.e5 (2018)</a></p></li>
+<li><p><u>Crowell HL</u>, MacLean AL, Stumpf MPH. Feedback mechanisms control coexistence in a stem cell model of acute myeloid leukaemia. <a href="https://doi.org/10.1016/j.jtbi.2016.04.002"><em>Journal of Theoretical Biology</em> <strong>401</strong>, 43-53 (2016)</a></p></li>
+</ul>
+</section>
+<section id="collaborations" class="level1">
+<h1>Collaborations</h1>
 <ul>
-<li>In the group of H. Heyn (Single Cell Genomics)</li>
-</ul></li>
-<li><strong>Postdoctoral Fellow</strong><br>
-University of Zurich, Switzerland (June-Aug.&nbsp;2023)
+<li><p>S Gunz<span class="math inline">\(^\ast\)</span>, <u>HL Crowell</u>, MD Robinson. Analysis of anatomical multi-cellular structures from spatial omics data using sosta. <a href="https://doi.org/10.1101/2025.10.13.682065"><em>bioRxiv</em> (2025)</a></p></li>
+<li><p>J Gilis, L Perin, M Malfait, <u>HL Crowell</u>, K Van den Berge, AT Assefa, B Verbist, D Risso, L Clement. Differential detection workflows for multi-sample single-cell RNA-seq data. <a href="http://doi.org/10.1186/s12864-025-12102-x"><em>BMC Genomics</em> <strong>26</strong>, 886 (2025)</a></p></li>
+<li><p>M Emons<span class="math inline">\(^\ast\)</span>, S Gunz<span class="math inline">\(^\ast\)</span>, <u>HL Crowell</u>, I Mallona, R Furrer, MD Robinson. Harnessing the potential of spatial statistics for spatial omics data with pasta. <a href="https://doi.org/10.1093/nar/gkaf870"><em>Nucleic Acids Research</em> <strong>53</strong>, gkaf870 (2025)</a></p></li>
+<li><p>A Jensen, <u>HL Crowell</u>, A Pascual-Reguant, I Ruano, S Tejpar, H Heyn, M Nilsson, S Marco Salas. In Situ Inference of Copy Number Variations in Image-Based Spatial Transcriptomics. <a href="https://doi.org/10.1101/2025.07.02.662761"><em>bioRxiv</em> (2025)</a></p></li>
+<li><p>E Pitino<span class="math inline">\(^\ast\)</span>, A Pascual-Reguant<span class="math inline">\(^\ast\)</span>, F Segato-Dezem<span class="math inline">\(^\ast\)</span>, K Wise, I Salvador-Martinez, <u>HL Crowell</u>, E Courtois, WF Flynn, S Sivajothi, E Soja, S Ruiz, G Caratù, AE Sullivan, German Atzin Mora Roldan, BK Dredge, M Marção, Y Liu, H Chasteen, M Mohenska, J Polo, JC Nieto, J Plummer<span class="math inline">\(^\dagger\)</span>, H Heyn<span class="math inline">\(^\dagger\)</span>, L Martelotto<span class="math inline">\(^\dagger\)</span>. STAMP: Single-cell transcriptomics analysis and multimodal profiling through imaging. <a href="https://doi.org/10.1016/j.cell.2025.05.027"><em>Cell</em> (2025)</a></p></li>
+<li><p>A Garrido-Trigo, AM Corraliza, M Veny, I Dotti, E Melon-Ardanaz, A Rill, <u>HL Crowell</u>, Á Corbí, V Gudiño, M Esteller, I Álvarez-Teubel, D Aguilar, MC Masamunt, E Killingbeck, Y Kim, M Leon, S Visvanathan, D Marchese, G Caratù, A Martin-Cardona, M Esteve, J Panés, E Ricart, E Mereu<span class="math inline">\(^\ast\)</span>, H Heyn<span class="math inline">\(^\ast\)</span>, A Salas. Macrophage and neutrophil heterogeneity at single-cell spatial resolution in inflammatory bowel disease. <a href="http://doi.org/10.1038/s41467-023-40156-6"><em>Nature Communications</em> <strong>14</strong>, 4506 (2023)</a></p></li>
+<li><p>A Sonrel<span class="math inline">\(^\ast\)</span>, A Luetge<span class="math inline">\(^\ast\)</span>, C Soneson<span class="math inline">\(^\ast\)</span>, IM Gonzalez<span class="math inline">\(^\ast\)</span>, PL Germain, S Knyazev, J Gilis, R Gerber, R Seurinck, D Paul, E Sonder, <u>HL Crowell</u>, I Fanaswala, A Al-Ajami, E Heidari, S Schmeing, S Milosavljevic, Y Saeys, S Mangul, MD Robinson. Meta-analysis of (single-cell method) benchmarks reveals the need for extensibility and interoperability. <a href="http://doi.org/10.1186/s13059-023-02962-5"><em>Genome Biology</em> <strong>24</strong>, 119 (2023)</a></p></li>
+<li><p>S Tiberi, <u>HL Crowell</u>, P Samartsidis, LM Weber, MD Robinson. distinct: a novel approach to differential distribution analyses. <a href="http://doi.org/10.1214/22-AOAS1689"><em>Annals of Applied Statistics</em> <strong>17</strong>(2):1681-1700 (2023)</a></p></li>
+<li><p>KD Prummel, <u>HL Crowell</u>, S Nieuwenhuize, EC Brombacher, S Daetwyler, C Soneson, J Kresoja-Rakic, A Kocere, M Ronner, A Ernst, Z Labbaf, DE Clouthier, AB Firulli, H Sánchez-Iranzo, SR Naganathan, R O’Rourke, E Raz, N Mercader, A Burger, E Felley-Bosco, J Huisken, MD Robinson, C Mosimann. Hand2 delineates mesothelium progenitors and is reactivated in mesothelioma. <a href="https://doi.org/10.1038/s41467-022-29311-7"><em>Nature Communications</em> <strong>13</strong>, 1677 (2022)</a></p></li>
+<li><p>RA Heller, J Seelig, <u>HL Crowell</u>, M Pilz, P Haubruck, Q Sun, L Schomburg, V Daniel, A Moghaddam, B Biglari. Predicting neurological recovery after traumatic spinal cord injury by time-resolved analysis of monocyte subsets. <a href="http://doi.org/10.1093/brain/awab203"><em>Brain</em> <strong>144</strong>, 3159 (2021)</a></p></li>
+<li><p>A Lütge, J Zyprych-Walczak, UB Kunzmann, <u>HL Crowell</u>, D Calini, D Malhotra, C Soneson, MD Robinson. CellMixS: quantifying and visualizing batch effects in single-cell RNA-seq data <a href="https://doi.org/10.26508/lsa.202001004"><em>Life Science Alliance</em> <strong>6</strong>, e202001004 (2021)</a></p></li>
+<li><p>J Seelig<span class="math inline">\(^\ast\)</span>, RA Heller<span class="math inline">\(^\ast\)</span>, P Haubruck, Q Sun, GJ Klingenberg, J Hackler, <u>HL Crowell</u>, V Daniel, A Moghaddam, L Schomburg, B Biglari. Selenium-binding protein 1 (SELENBP1) as biomarker for adverse clinical outcome after traumatic spinal cord injury. <a href="http://doi.org/10.3389/fnins.2021.680240"><em>Frontiers in Neuroscience</em> <strong>15</strong>, 680240 (2021)</a></p></li>
+<li><p>M Nowicka, C Krieg, <u>HL Crowell</u>, LM Weber, FJ Hartmann, S Guglietta, B Becher, MP Levesque, MD Robinson. CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets. <a href="https://doi.org/10.12688/f1000research.11622.4"><em>F1000Research</em> <strong>6</strong>, 748.v4 (2019)</a></p></li>
+</ul>
+</section>
+<section id="conferences" class="level1">
+<h1>Conferences</h1>
 <ul>
-<li>In the group of M. D. Robinson (Statistical Bioinformatics)</li>
-</ul></li>
-<li><strong>Bioinformatics consultant</strong><br>
-University of Kansas, USA (Apr.-July ’23)
+<li><a href="https://sciforum.net/event/Cancers2025">Spatial Biology of the Tumor Ecosystem</a> Nov.&nbsp;’25; Barcelona, Spain (invited talk)</li>
+<li><a href="https://eurobioc2025.bioconductor.org/">European Bioconductor Conference 2025</a> Sep.&nbsp;’25; Barcelona, Spain (keynote talk)</li>
+<li><a href="https://www.huber.embl.de/group/events/ascona2024.html">Spatial &amp; temporal statistical modeling in molecular biology</a> Sep.&nbsp;’24; Ascona, Switzerland (talk)</li>
+<li><a href="https://nanostring.com/events/nanostring-summits-april-2024/">NanoString Europe summit</a> Apr.&nbsp;’24; Barcelona, Spain (invited talk)</li>
+<li><a href="https://smpgd2023.sciencesconf.org/">Statistical Methods for Post Genomic Data</a> Feb.&nbsp;’23; Ghent, Belgium (invited talk)</li>
+<li><a href="https://eccb2022.org/">European Conference on Computational Biology</a> Sep.&nbsp;’22; Sitges, Spain (invited talk)</li>
+<li><a href="https://masscytometry2022.de/">German Mass Cytometry User Forum</a> Jan.&nbsp;’22; virtual (invited talk)</li>
+<li><a href="https://www.glia2021.eu/">European Glial Meeting</a> July ’21; virtual (invited talk)</li>
+<li><a href="https://swisscytomeeting.epfl.ch">Swiss Cytometry Meeting</a> Feb.&nbsp;’20; Lausanne, Switzerland (invited talk)</li>
+<li><a href="https://bioconductor.github.io/BiocAsia">Bioconductor Asia Conference</a> Dec.&nbsp;’19; Sydney, Australia (keynote talk &amp; workshop)</li>
+<li><a href="http://bioc2019.bioconductor.org/">Bioconductor Main Conference</a> June ’19; New York, USA (talk &amp; workshop)</li>
+<li><a href="https://bioconductor.github.io/EuroBioc2018">European Bioconductor Developers’ Meeting</a> Dec.&nbsp;’18; Munich, Germany (talk)</li>
+</ul>
+</section>
+<section id="software" class="level1">
+<h1>Software</h1>
 <ul>
-<li>methods and workflow deelopment for bulk RNA-seq data analysis in the context of sex-chromosome dosage compensation</li>
-</ul></li>
-<li><strong>Bioconductor Technical Advisory board</strong><br>
-Bioconductor project (2023+)
+<li><p><strong>OSTA</strong> <a href="https://github.com/lmweber/OSTA"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="http://bioconductor.org/books/OSTA">Bioc</a><br>
+Orchestrating Spatial Transcriptomics Analysis with Bioconductor.<br>
+<u>Crowell HL</u>, Y Dong, R Gottardo, Robinson MD, Hicks SC, Weber LM (2025).</p></li>
+<li><p><strong>CATALYST</strong> <a href="https://github.com/HelenaLC/CATALYST"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="http://bioconductor.org/packages/CATALYST">Bioc</a><br>
+Preprocessing of and differential discovery in cytometry data.<br>
+<u>Crowell HL</u>, Zanotelli VRT, Chevrier S, Robinson MD (2017).</p></li>
+<li><p><strong>muscat</strong> <a href="https://github.com/HelenaLC/muscat"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="http://bioconductor.org/packages/muscat">Bioc</a><br>
+Multi-sample multi-group scRNA-seq data analysis tools.<br>
+<u>Crowell HL</u>, Germain P-L, Soneson C, Sonrel A,<br>
+Gilis J, Risso D, Clemend L, Robinson MD (2019).</p></li>
+<li><p><strong>SpatialExperiment</strong> <a href="https://github.com/drighelli/SpatialExperiment"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="http://bioconductor.org/packages/SpatialExperiment">Bioc</a><br>
+S4 Class for Spatially Resolved Transcriptomics Data.<br>
+Righelli D, Risso D, <u>Crowell HL</u>, Weber LM (2020).</p></li>
+<li><p><strong>SPOTlight</strong> <a href="https://github.com/MarcElosua/SPOTlight"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="http://bioconductor.org/packages/SPOTlight">Bioc</a><br>
+Spatial transcriptomics deconvolution using a seeded NMF approach.<br>
+Elosua-Bayes M, <u>Crowell HL</u></p></li>
+</ul>
+</section>
+<section id="vitae" class="level1">
+<h1>Vitae</h1>
+<section id="experience" class="level2">
+<h2 class="anchored" data-anchor-id="experience">Experience</h2>
 <ul>
-<li>Concerned with the project’s long-term technical and scientific viability and suitability</li>
-</ul></li>
-<li><strong>Bioinformatics consultant</strong><br>
-EMBL Heidelberg, Germany (Aug.-Nov.&nbsp;’22)
-<ul>
-<li>“Modern Statistics for Modern Biologists” by W. Huber (EMBL Heidelberg, Germany) and S. Holmes (Stanford University, USA) textbook conversion to the Quarto publishing system</li>
-</ul></li>
-<li><strong>Bioconductor package reviewer</strong><br>
-Bioconductor project (2021+)
-<ul>
-<li>Voluntary assistance with the review of newly submitted packages</li>
-</ul></li>
-<li><strong>Research Assistant</strong><br>
-University of Zurich, Switzerland (2016-2018)
-<ul>
-<li>In the group of M. D. Robinson (Statistical Bioinformatics)</li>
-</ul></li>
+<li><strong>Postdoctoral Fellow</strong>, CNAG Barcelona, Spain (Sept.&nbsp;2023+)</li>
+<li><strong>Bioconductor Technical Advisory board</strong> (2023+)</li>
+<li><strong>Postdoctoral Fellow</strong>, University of Zurich, Switzerland (June-Aug.&nbsp;2023)</li>
+<li><strong>Consultancy</strong>, BioMed X Heidelberg, Germany (Nov.-Dec.&nbsp;’24)<br>
+</li>
+<li><strong>Consultancy</strong>, University of Kansas, USA (Apr.-July ’23)<br>
+</li>
+<li><strong>Consultancy</strong>, EMBL Heidelberg, Germany (Aug.-Nov.&nbsp;’22)</li>
+<li><strong>Bioconductor package reviewer</strong> (2021+)</li>
+<li><strong>Research Assistant</strong>, University of Zurich, Switzerland (2016-2018)</li>
 </ul>
 </section>
 <section id="education" class="level2">
 <h2 class="anchored" data-anchor-id="education">Education</h2>
 <ul>
-<li><strong>PhD</strong> in Epidemiology &amp; Biostatistics<br>
-University of Zurich, Switzerland (2018-2023)
-<ul>
-<li>In the group of M. D. Robinson (Statistical Bioinformatics)</li>
-<li>Thesis on ‘Computational methods development and benchmarking for single-cell and spatially resolved omics data’</li>
-<li>Awarded with distinction by the Faculty of Science</li>
-</ul></li>
-<li><strong>MSc</strong> in Computation Biology &amp; Bioinformatics<br>
-ETH Zurich, Switzerland (2015-2018)
-<ul>
-<li>In the group of M. D. Robinson (Statistical Bioinformatics)</li>
-<li>Thesis on ‘Differential analysis for scRNA‑seq data with complex experimental designs’</li>
-</ul></li>
-<li><strong>BSc</strong> in Biochemistry<br>
-University of Heidelberg, Germany (2012-2015)
-<ul>
-<li>In the group of T. Höfer (Modeling of Biological Systems)</li>
-<li>Thesis ‘On the determinism behind neuroblastoma cell cycle dynamics’</li>
-</ul></li>
-<li><strong>Abitur</strong> at Heisenberg-Gymnasium, Germany (2005-2012)
-<ul>
-<li>GPA of 1.1 (scale from 1 = best to 6 = worst, 1 – 4 are a pass)</li>
-<li>Graduated with distinction in Chemistry, Mathematics, and overall grade</li>
-</ul></li>
-</ul>
-</section>
-<section id="honors" class="level2">
-<h2 class="anchored" data-anchor-id="honors">Honors</h2>
-<ul>
-<li><p><strong>PhD distinction</strong><br>
-Awarded by The Faculty of Science (MNF)<br>
-for “exceptional doctoral theses” (2020)</p></li>
-<li><p><strong>Bioconductor community award</strong><br>
-“For outstanding contributions to the Bioconductor project and community” (2020)</p></li>
+<li><strong>PhD</strong> Epidemiology &amp; Biostatistics, University of Zurich, Switzerland (2018-2023)</li>
+<li><strong>MSc</strong> Computation Biology &amp; Bioinformatics, ETH Zurich, Switzerland (2015-2018)</li>
+<li><strong>BSc</strong> Biochemistry, University of Heidelberg, Germany (2012-2015)</li>
 </ul>
 </section>
 <section id="funding" class="level2">
 <h2 class="anchored" data-anchor-id="funding">Funding</h2>
 <ul>
-<li><strong>SNSF Postdoc.Mobility</strong><br>
-National Center for Genomic Analysis<br>
-(CNAG), Barcelona, Spain (Sept.&nbsp;2023+)
+<li><strong>SNSF Postdoc.Mobility</strong>, CNAG Barcelona, Spain (Sept.&nbsp;2023+)</li>
+<li><strong>SNSF Doc.Mobility</strong> CNAG Barcelona, Spain (2021-2022)</li>
+<li><strong>Erasmus scholarship</strong> Imperial College London, UK (2014-2015)</li>
+<li><strong>RISE grant</strong> Pennsylvania State University, USA (2014)</li>
+</ul>
+</section>
+<section id="honors" class="level2">
+<h2 class="anchored" data-anchor-id="honors">Honors</h2>
 <ul>
-<li>Postdoc in the group of H. Heyn (Single Cell Genomics)</li>
-</ul></li>
-<li><strong>SNSF Doc.Mobility</strong><br>
-National Center for Genomic Analysis<br>
-(CNAG), Barcelona, Spain (2021-2022)
-<ul>
-<li>Visiting student in the group of H. Heyn (Single Cell Genomics)</li>
-</ul></li>
-<li><strong>Erasmus scholarship</strong><br>
-Imperial College London, UK (2014-2015)
-<ul>
-<li>Research internship in the group of M. Stumpf (Theoretical Systems Biology)</li>
-</ul></li>
-<li><strong>RISE grant</strong><br>
-Pennsylvania State University, USA (2014)
-<ul>
-<li>Research internship in the group of D. D. Boehr (Department of Chemistry)</li>
-</ul></li>
+<li><strong>PhD distinction</strong> Faculty of Science, University of Zurich, Switzerland (2020)</li>
+<li><strong>Bioconductor community award</strong> Bioconductor Conference, virtual (2020)</li>
 </ul>
 </section>
 <section id="teaching" class="level2">
 <h2 class="anchored" data-anchor-id="teaching">Teaching</h2>
 <ul>
-<li><p><a href="https://gimm.idloom.events/autumn-school">Autumn School for Single Cell-ers</a><br>
-Oeiras, Portugal (Oct.&nbsp;2025)</p></li>
-<li><p><a href="https://csama2025.bioconductor.eu">CSAMA Biological Data Science</a><br>
-Bressanone-Brixen, Italy (July 2025)</p></li>
-<li><p><strong>SIB course</strong> on <a href="https://www.sib.swiss/training/course/20250121_SPODA">Spatial Omics Data Analysis</a><br>
-Lausanne, Switzerland (Jan.&nbsp;2025)</p></li>
-<li><p><strong>guest lecturer</strong> on Spatial Transcriptomics<br>
-at the Universitat Pompeu Fabra (UPF)<br>
-Barcelona, Spain (June 2024-’25)</p></li>
-<li><p><a href="https://www.bds3.org">Biological Data Science Summer School</a><br>
-Uzhhorod, Ukraine (July 2023-’25)</p></li>
-<li><p><strong>SIB/SciLifeLab school</strong> on <a href="https://www.sib.swiss/training/course/2019-10_single-cell">Single Cell Analysis</a><br>
-Leysin, Switzerland (Oct.&nbsp;2019)</p></li>
-<li><p><strong>SIB course</strong> on <a href="https://www.sib.swiss/training/course/20230427_SHINY">Introduction to R Shiny</a><br>
-Zurich, Switzerland (May 2019)</p></li>
-<li><p><strong>Teaching assistant</strong><br>
-Zurich, Switzerland (2019-2021)</p>
+<li><a href="https://gimm.idloom.events/autumn-school">Autumn School for Single Cell-ers</a> Oeiras, Portugal (Oct.&nbsp;2025)</li>
+<li><a href="https://csama2025.bioconductor.eu">CSAMA Biological Data Science</a> Bressanone-Brixen, Italy (July 2025)</li>
+<li><strong>SIB course</strong> on <a href="https://www.sib.swiss/training/course/20250121_SPODA">Spatial Omics Data Analysis</a> Lausanne, Switzerland (Jan.&nbsp;2025)<br>
+</li>
+<li><strong>guest lecturer</strong> on Spatial Transcriptomics at the UPF Barcelona, Spain (June 2024-’25)</li>
+<li><a href="https://www.bds3.org">Biological Data Science Summer School</a> Uzhhorod, Ukraine (July 2023-’25)</li>
+<li><strong>SIB/SciLifeLab school</strong> on <a href="https://www.sib.swiss/training/course/2019-10_single-cell">Single Cell Analysis</a> Leysin, Switzerland (Oct.&nbsp;2019)<br>
+</li>
+<li><strong>SIB course</strong> on <a href="https://www.sib.swiss/training/course/20230427_SHINY">Introduction to R Shiny</a> Zurich, Switzerland (May 2019)<br>
+</li>
+<li><strong>Teaching assistant</strong> University of Zurich, Switzerland (2019-2021)
 <ul>
 <li>Programming in Biology (BIO134)</li>
 <li>Practical Bioinformatics (BIO334)</li>
@@ -268,6 +302,7 @@ Genomic &amp; Transcriptomic Data (STA426)</li>
 </ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
