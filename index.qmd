@@ -200,7 +200,7 @@ Elosua-Bayes M, <u>Crowell HL</u>
 - [Biological Data Science Summer School](https://www.bds3.org) Uzhhorod, Ukraine (July 2023-'25)
 - **SIB/SciLifeLab school** on [Single Cell Analysis](https://www.sib.swiss/training/course/2019-10_single-cell), Leysin, Switzerland (Oct. 2019)  
 - **SIB course** on [Introduction to R Shiny](https://www.sib.swiss/training/course/20230427_SHINY) Zurich, Switzerland (May 2019)  
-- **Teaching assistant** University of Zurich, Switzerland (2019-2021)
+- **Teaching assistant**, University of Zurich, Switzerland (2019-2021)
   - Programming in Biology (BIO134)
   - Practical Bioinformatics (BIO334)
   - Statistical Analysis of High‐Throughput  
