@@ -193,13 +193,13 @@ Elosua-Bayes M, <u>Crowell HL</u>
 ## Teaching 
 
 - [Autumn School for Single Cell-ers](https://gimm.idloom.events/autumn-school), Oeiras, Portugal (Oct. 2025)
-- [CSAMA Biological Data Science](https://csama2025.bioconductor.eu) Bressanone-Brixen, Italy (July 2025)
+- [CSAMA Biological Data Science](https://csama2025.bioconductor.eu), Bressanone-Brixen, Italy (July 2025)
 - **SIB course** on
 [Spatial Omics Data Analysis](https://www.sib.swiss/training/course/20250121_SPODA), Lausanne, Switzerland (Jan. 2025)  
 - **guest lecturer** on Spatial Transcriptomics, UPF Barcelona, Spain (June 2024-'25)
-- [Biological Data Science Summer School](https://www.bds3.org) Uzhhorod, Ukraine (July 2023-'25)
+- [Biological Data Science Summer School](https://www.bds3.org), Uzhhorod, Ukraine (July 2023-'25)
 - **SIB/SciLifeLab school** on [Single Cell Analysis](https://www.sib.swiss/training/course/2019-10_single-cell), Leysin, Switzerland (Oct. 2019)  
-- **SIB course** on [Introduction to R Shiny](https://www.sib.swiss/training/course/20230427_SHINY) Zurich, Switzerland (May 2019)  
+- **SIB course** on [Introduction to R Shiny](https://www.sib.swiss/training/course/20230427_SHINY), Zurich, Switzerland (May 2019)  
 - **Teaching assistant**, University of Zurich, Switzerland (2019-2021)
   - Programming in Biology (BIO134)
   - Practical Bioinformatics (BIO334)
