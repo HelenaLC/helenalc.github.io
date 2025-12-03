@@ -157,7 +157,7 @@ Righelli D, Risso D, <u>Crowell HL</u>, Weber LM (2020).
 [{{< fa brands github >}}](https://github.com/MarcElosua/SPOTlight)
 [Bioc](http://bioconductor.org/packages/SPOTlight)  
 Spatial transcriptomics deconvolution using a seeded NMF approach.  
-Elosua-Bayes M, <u>Crowell HL</u>
+Elosua-Bayes M, <u>Crowell HL</u> (2022)
 
 # Vitae
 
@@ -165,12 +165,12 @@ Elosua-Bayes M, <u>Crowell HL</u>
 
 - **Postdoctoral Fellow**, CNAG Barcelona, Spain (Sept. 2023+)
 - **Bioconductor Technical Advisory board** (2023+)
-- **Postdoctoral Fellow**, University of Zurich, Switzerland (June-Aug. 2023)
 - **Consultancy**, BioMed X Heidelberg, Germany (Nov.-Dec. '24)  
+- **Postdoctoral Fellow**, University of Zurich, Switzerland (June-Aug. '23)
 - **Consultancy**, University of Kansas, USA (Apr.-July '23)  
 - **Consultancy**, EMBL Heidelberg, Germany (Aug.-Nov. '22)
 - **Bioconductor package reviewer** (2021+)
-- **Research Assistant**, University of Zurich, Switzerland (2016-2018)
+- **Research Assistant**, University of Zurich, Switzerland (2016-'18)
 
 ## Education
 
@@ -193,11 +193,11 @@ Elosua-Bayes M, <u>Crowell HL</u>
 ## Teaching 
 
 - [Autumn School for Single Cell-ers](https://gimm.idloom.events/autumn-school), Oeiras, Portugal (Oct. 2025)
+- [Biological Data Science Summer School](https://www.bds3.org), Uzhhorod, Ukraine (July 2023-'25)
 - [CSAMA Biological Data Science](https://csama2025.bioconductor.eu), Bressanone-Brixen, Italy (July 2025)
 - **SIB course** on
 [Spatial Omics Data Analysis](https://www.sib.swiss/training/course/20250121_SPODA), Lausanne, Switzerland (Jan. 2025)  
 - **guest lecturer** on Spatial Transcriptomics, UPF Barcelona, Spain (June 2024-'25)
-- [Biological Data Science Summer School](https://www.bds3.org), Uzhhorod, Ukraine (July 2023-'25)
 - **SIB/SciLifeLab school** on [Single Cell Analysis](https://www.sib.swiss/training/course/2019-10_single-cell), Leysin, Switzerland (Oct. 2019)  
 - **SIB course** on [Introduction to R Shiny](https://www.sib.swiss/training/course/20230427_SHINY), Zurich, Switzerland (May 2019)  
 - **Teaching assistant**, University of Zurich, Switzerland (2019-2021)
