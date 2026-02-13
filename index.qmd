@@ -48,7 +48,7 @@ Feedback mechanisms control coexistence in a stem cell model of acute myeloid le
 
 # Collaborations
 
-- S Gunz$^\ast$, <u>HL Crowell</u>, MD Robinson.
+- S Gunz, <u>HL Crowell</u>, MD Robinson.
 Analysis of anatomical multi-cellular structures from spatial omics data using sosta.
 [*bioRxiv* (2025)](https://doi.org/10.1101/2025.10.13.682065)
 
