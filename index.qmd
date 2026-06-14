@@ -111,8 +111,20 @@ adverse clinical outcome after traumatic spinal cord injury.
 CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets.
 [*F1000Research* **6**, 748.v4 (2019)](https://doi.org/10.12688/f1000research.11622.4)
 
+# Hackathons
+
+- San Servolo, Italy (April 2026).
+Bioconductor Spatial Data & Image Analysis Hackathon. 
+[*BioHackrXiv* (2026)](https://doi.org/10.37044/osf.io/9ej32)
+- Padua, Italy (April 2026). 2nd SpatialData Hackathon [...].
+[*BioHackrXiv* (2026)](https://doi.org/10.37044/osf.io/s6bph)
+- Basel, Switzerland (Dec. 2024).
+1st SpatialData Developer Workshop. 
+[*BioHackrXiv* (2024)](https://doi.org/10.37044/osf.io/8ck3e)
+
 # Conferences
 
+- [Statistical & AI methods for [...] modeling of biological systems](https://ascona2026.sciencesconf.org) June '26; Switzerland (poster)
 - [Spatial Biology of the Tumor Ecosystem](https://sciforum.net/event/Cancers2025) Nov. '25; Barcelona, Spain (invited talk)
 - [European Bioconductor Conference 2025](https://eurobioc2025.bioconductor.org/) Sep. '25; Barcelona, Spain (keynote talk)
 - [Spatial & temporal statistical modeling in molecular biology](https://www.huber.embl.de/group/events/ascona2024.html) Sep. '24; Ascona, Switzerland (talk)
@@ -192,6 +204,8 @@ Elosua-Bayes M, <u>Crowell HL</u> (2022)
 
 ## Teaching 
 
+- **EMBO course** on [Integrative Analysis of Multi-Omics Data](https://www.embl.org/about/info/course-and-conference-office/events/mmd26-01), Heidelberg, Germany (July 2026)
+- [CSAMA Biological Data Science](https://csama2026.bioconductor.eu), Bressanone-Brixen, Italy (May 2025)
 - [Autumn School for Single Cell-ers](https://gimm.idloom.events/autumn-school), Oeiras, Portugal (Oct. 2025)
 - [Biological Data Science Summer School](https://www.bds3.org), Uzhhorod, Ukraine (July 2023-'25)
 - [CSAMA Biological Data Science](https://csama2025.bioconductor.eu), Bressanone-Brixen, Italy (July 2025)
