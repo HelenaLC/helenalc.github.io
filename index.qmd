@@ -113,17 +113,19 @@ CyTOF workflow: differential discovery in high-throughput high-dimensional cytom
 
 # Conferences
 
-- [Statistical & AI methods for [...] modeling of biological systems](https://ascona2026.sciencesconf.org) June '26; Switzerland (poster)
+- [3rd Conference of the European Society for Spatial Biology](https://essb2026.org/) Sep. '26; Sitges, Barcelona, Spain (talk)
+- [Statistical & AI methods for [...] modeling of biological systems](https://ascona2026.sciencesconf.org) June '26; Ascona, Switzerland (poster)
 - [Spatial Biology of the Tumor Ecosystem](https://sciforum.net/event/Cancers2025) Nov. '25; Barcelona, Spain (invited talk)
-- [European Bioconductor Conference 2025](https://eurobioc2025.bioconductor.org/) Sep. '25; Barcelona, Spain (keynote talk)
+- [European Bioconductor Conference 2025](https://eurobioc2025.bioconductor.org/) Sep. '25; Barcelona, Spain (keynote)
 - [Spatial & temporal statistical modeling in molecular biology](https://www.huber.embl.de/group/events/ascona2024.html) Sep. '24; Ascona, Switzerland (talk)
+- [Single Cell Genomics](https://conferences.weizmann.ac.il/SCG2024/) Sep. '24; Corinthia, Greece (poster)
 - [NanoString Europe summit](https://nanostring.com/events/nanostring-summits-april-2024/) Apr. '24; Barcelona, Spain (invited talk)
 - [Statistical Methods for Post Genomic Data](https://smpgd2023.sciencesconf.org/) Feb. '23; Ghent, Belgium (invited talk)
 - [European Conference on Computational Biology](https://eccb2022.org/) Sep. '22; Sitges, Spain (invited talk)
 - [German Mass Cytometry User Forum](https://masscytometry2022.de/) Jan. '22; virtual (invited talk)
 - [European Glial Meeting](https://www.glia2021.eu/) July '21; virtual (invited talk)
 - [Swiss Cytometry Meeting](https://swisscytomeeting.epfl.ch) Feb. '20; Lausanne, Switzerland (invited talk)
-- [Bioconductor Asia Conference](https://bioconductor.github.io/BiocAsia) Dec. '19; Sydney, Australia (keynote talk \& workshop)
+- [Bioconductor Asia Conference](https://bioconductor.github.io/BiocAsia) Dec. '19; Sydney, Australia (keynote \& workshop)
 - [Bioconductor Main Conference](http://bioc2019.bioconductor.org/) June '19; New York, USA (talk \& workshop)
 - [European Bioconductor Developers’ Meeting](https://bioconductor.github.io/EuroBioc2018) Dec. '18; Munich, Germany (talk)
 
@@ -175,7 +177,7 @@ Elosua-Bayes M, <u>Crowell HL</u> (2022)
 
 ## Experience
 
-- **Postdoctoral Fellow**, CNAG Barcelona, Spain (Sept. 2023+)
+- **Postdoctoral Fellow**, CNAG Barcelona, Spain (Sep. 2023+)
 - **Bioconductor Technical Advisory board** (2023+)
 - **Consultancy**, BioMed X Heidelberg, Germany (Nov.-Dec. '24)  
 - **Postdoctoral Fellow**, University of Zurich, Switzerland (June-Aug. '23)
@@ -186,15 +188,16 @@ Elosua-Bayes M, <u>Crowell HL</u> (2022)
 
 ## Education
 
-- **PhD** Epidemiology \& Biostatistics, University of Zurich, Switzerland (2018-2023)
-- **MSc** Computation Biology \& Bioinformatics, ETH Zurich, Switzerland (2015-2018)
-- **BSc** Biochemistry, University of Heidelberg, Germany (2012-2015)
+- **PhD** Epidemiology \& Biostatistics, University of Zurich, Switzerland (2018-'23)
+- **MSc** Computation Biology \& Bioinformatics, ETH Zurich, Switzerland (2015-'18)
+- **BSc** Biochemistry, University of Heidelberg, Germany (2012-'15)
 
 ## Funding 
 
-- **SNSF Postdoc.Mobility**, CNAG Barcelona, Spain (Sept. 2023+)
-- **SNSF Doc.Mobility**, CNAG Barcelona, Spain (2021-2022)
-- **Erasmus scholarship**, Imperial College London, UK (2014-2015)
+- **SNSF Postdoc.Mobility Return grant** [#242200](https://data.snf.ch/grants/grant/242200), CHUV Lausanne, Switzerland (2026-'27)
+- **SNSF Postdoc.Mobility grant** [#222136](https://data.snf.ch/grants/grant/222136), CNAG Barcelona, Spain (2024-'26)
+- **SNSF Doc.Mobility grant** [#191331](https://data.snf.ch/grants/grant/191331), CNAG Barcelona, Spain (2021-'22)
+- **Erasmus scholarship**, Imperial College London, UK (2014-'15)
 - **RISE grant**, Pennsylvania State University, USA (2014)
 
 ## Honors
@@ -204,17 +207,19 @@ Elosua-Bayes M, <u>Crowell HL</u> (2022)
 
 ## Teaching 
 
-- **EMBO course** on [Integrative Analysis of Multi-Omics Data](https://www.embl.org/about/info/course-and-conference-office/events/mmd26-01), Heidelberg, Germany (July 2026)
-- [CSAMA Biological Data Science](https://csama2026.bioconductor.eu), Bressanone-Brixen, Italy (May 2025)
+- [Biological Data Science Summer School](https://www.bds3.org), Uzhhorod, Ukraine (July 2026)
+- [CSAMA Biological Data Science](https://csama2026.bioconductor.eu), Bressanone-Brixen, Italy (May 2026)
+- **Guest lecturer** on Spatial Transcriptomics, UPF Barcelona, Spain (2024-'26)
 - [Autumn School for Single Cell-ers](https://gimm.idloom.events/autumn-school), Oeiras, Portugal (Oct. 2025)
-- [Biological Data Science Summer School](https://www.bds3.org), Uzhhorod, Ukraine (July 2023-'25)
+- [Biological Data Science Summer School](https://www.bds3.org/past-schools/ubds3-2025), Uzhhorod, Ukraine (July 2025)
 - [CSAMA Biological Data Science](https://csama2025.bioconductor.eu), Bressanone-Brixen, Italy (July 2025)
 - **SIB course** on
 [Spatial Omics Data Analysis](https://www.sib.swiss/training/course/20250121_SPODA), Lausanne, Switzerland (Jan. 2025)  
-- **guest lecturer** on Spatial Transcriptomics, UPF Barcelona, Spain (June 2024-'25)
+- [Biological Data Science Summer School](https://www.bds3.org/past-schools/ubds3-2024), Uzhhorod, Ukraine (July 2024)
+- [Biological Data Science Summer School](https://www.bds3.org/past-schools/ubds3-2023), Uzhhorod, Ukraine (July 2023)
 - **SIB/SciLifeLab school** on [Single Cell Analysis](https://www.sib.swiss/training/course/2019-10_single-cell), Leysin, Switzerland (Oct. 2019)  
 - **SIB course** on [Introduction to R Shiny](https://www.sib.swiss/training/course/20230427_SHINY), Zurich, Switzerland (May 2019)  
-- **Teaching assistant**, University of Zurich, Switzerland (2019-2021)
+- **Teaching assistant**, University of Zurich, Switzerland (2019-'21)
   - Programming in Biology (BIO134)
   - Practical Bioinformatics (BIO334)
   - Statistical Analysis of High‐Throughput  
