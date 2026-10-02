@@ -54,7 +54,7 @@ Training as infrastructure for biological data science in wartime Ukraine.
 
 - S Gunz, <u>HL Crowell</u>, MD Robinson.
 Analysis of anatomical multi-cellular structures from spatial omics data using sosta.
-[*bioRxiv* (2025)](https://doi.org/10.1101/2025.10.13.682065)
+[*PLoS Computational Biology* **22**(9):e1014551 (2026)](https://doi.org/10.1371/journal.pcbi.1014551)
 
 - J Gilis, L Perin, M Malfait, <u>HL Crowell</u>, K Van den Berge, AT Assefa, B Verbist, D Risso, L Clement.
 Differential detection workflows for multi-sample single-cell RNA-seq data.
@@ -187,6 +187,7 @@ Elosua-Bayes M, <u>Crowell HL</u> (2022)
 
 ## Experience
 
+- **Postdoctoral Fellow**, CHUV Lausanne, Switzerland (Oct. 2026+)
 - **Postdoctoral Fellow**, CNAG Barcelona, Spain (Sep. 2023+)
 - **Bioconductor Technical Advisory board** (2023+)
 - **Consultancy**, BioMed X Heidelberg, Germany (Nov.-Dec. '24)  
