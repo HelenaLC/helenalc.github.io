@@ -2,6 +2,10 @@
 
 ($\ast$ co-first. $\dagger$ co-senior. {{< fa regular envelope >}} correspondence.)
 
+- C Chen, LE Borm, A Pascual-Reguant, I Ruano, D Risso$^\dagger$^{{< fa regular envelope >}}^, <u>HL Crowell</u>$^\dagger$^{{< fa regular envelope >}}^.
+On technical biases in imaging spatial transcriptomics.
+[*bioRxiv* (2026)](https://doi.org/10.64898/2026.10.16.759529)
+
 - <u>HL Crowell</u>, L Llaó-Cid, G Frigola, S Gunz, P Lorden, M Ruiz, I Ruano, M Kulis, JI Martin-Subero, H Heyn, E Campo, A Pascual-Reguant. 
 A transcriptional map of human tonsil architecture: beyond the sum of (single cell) parts.
 [*European Journal of Immunology* **56**, e70121 (2026)](http://doi.org/10.1002/eji.70121)
